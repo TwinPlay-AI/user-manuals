@@ -25,3 +25,7 @@ password e schiaccia sul tasto “Connetti”
 Se l’associazione è andata a buon fine, la spia inizierà a
 **lampeggiare regolarmente**, iniziando direttamente a riprendere l’allenamento. Se la spia ritorna a lampeggiare con 2 impulsi ravvicinati l’associazione non è andata a buon fine: verifica che la connessione abbia
 accesso a internet e che la password inserita sia corretta.
+
+[Back to index](README.md)
+
+[&laquo; Unboxing](unboxing.md) | [Istruzioni utilizzo &raquo;](istruzioni_utilizzo.md)

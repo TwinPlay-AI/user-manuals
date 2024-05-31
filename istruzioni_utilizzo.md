@@ -1,4 +1,4 @@
-_# Istruzioni utilizzo
+# Istruzioni utilizzo
 1. Posiziona il cavalletto circa a metà campo fuori dalla linea laterale.
 2. Estendi il treppiedi, facendo attenzione che il tubo centrale non tocchi
 terra (solamente i 3 appoggi del treppiedi devono essere a contatto con il
