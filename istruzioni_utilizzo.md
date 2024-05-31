@@ -1,4 +1,4 @@
-# Istruzioni utilizzo
+_# Istruzioni utilizzo
 1. Posiziona il cavalletto circa a metà campo fuori dalla linea laterale.
 2. Estendi il treppiedi, facendo attenzione che il tubo centrale non tocchi
 terra (solamente i 3 appoggi del treppiedi devono essere a contatto con il
@@ -23,3 +23,7 @@ In caso di più allenamenti consecutivi con giocatori diversi, è raccomandato s
 si spegne per una decina di secondi, rincominciando poi a lampeggiare
 regolarmente. In questo l’allenamento precedente viene terminato e un nuovo allenamento viene creato.
 
+
+[Back to index](README.md)
+
+[&laquo; Primo utilizzo](primo_utilizzo.md) | [Suggerimenti &raquo;](suggerimenti.md)

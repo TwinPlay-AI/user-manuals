@@ -3,3 +3,7 @@ Utilizzare la telecamera in campi ben illuminati, evitandone l’utilizzo in con
 di forte luce diretta nel campo inquadrato (contro-sole).
 Assicurarsi che le righe del campo siano ben visibili.
 In assenza di queste due condizioni, è possibile che il prodotto non funzioni correttamente.
+
+[Back to index](README.md)
+
+[&laquo; Istruzioni utilizzo](istruzioni_utilizzo.md) | [Risoluzione problemi &raquo;](risoluzione_problemi.md)
