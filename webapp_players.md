@@ -13,7 +13,7 @@ accedere e navigare nella piattaforma TwinPlay.
     <img src="./assets/img/qrcode_app.twinplay.ai.png" alt="QR_wifi" style="width:30%;" />
 </div>
 
-1. Collegati al sito [app.twinplay.ai](https://app.twinplay.ai)
+1. Collegati al sito <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>
 2. Inserisci le tue credenziali
 3. Clicca su `Login`
 
