@@ -15,16 +15,22 @@ Attenzione, se la rete è creata come hotspot da telefono, è necessario avere u
 l’unità.
 2. Accendi l’unità. Se non rileva nessuna rete conosciuta dopo qualche
 minuto inizierà a fare 2 lampeggi ravvicinati: è nella modalità di associazione a una nuova rete
+**Attenzione per la procedura usa un dispositivo diverso da quello che fa da hotspot**.
+### a) con QR code
+3. inquadra il QR code sottostante con un dispositivo che può connettersi a una rete wifi
+    <div style="text-align: center;">
+        <img src="./assets/img/QR_wifi.png" alt="QR_wifi" style="width:30%;" />
+    </div>
+4. inquadra il secondo QR code per essere reindirizzato alla pagina di configurazione TwinPlay
+    <div style="text-align: center;">
+        <img src="./assets/img/QR_link.png" alt="QR_link" style="width:30%;" />
+    </div>
+### b) senza QR code
 3. Collegati alla rete **TwinPlay** con password **TwinPlayCamera** (la rete non ha
 accesso a internet, è giusto che sia così). Puoi anche utilizzare il seguente QR code per connetterti automaticamente alla rete TwinPlay:
-<div style="text-align: center;">
-    <img src="./assets/img/QR_wifi.png" alt="QR_wifi" style="width:30%;" />
-</div>
 4. Apri il browser (Chrome, Safari, etc.) e vai alla pagina **http://192.168.4.1:5000**, si aprirà la pagina di configurazione TwinPlay:
-<div style="text-align: center;">
-    <img src="./assets/img/QR_link.png" alt="QR_link" style="width:30%;" />
-</div>
-6. Seleziona la rete WIFI a cui vuoi collegare la telecamera, inserisci la
+### Salvataggio rete
+5. Seleziona la rete WIFI a cui vuoi collegare la telecamera, inserisci la
 password e schiaccia sul tasto “Connetti”
 6. Attendi 1 minuto.
 
