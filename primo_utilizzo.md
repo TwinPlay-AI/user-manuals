@@ -31,6 +31,7 @@ minuto inizierà a fare 2 lampeggi ravvicinati: è nella modalità di associazio
 3. Collegati alla rete **TwinPlay** con password **TwinPlayCamera** (la rete non ha
 accesso a internet, è giusto che sia così). Puoi anche utilizzare il seguente QR code per connetterti automaticamente alla rete TwinPlay:
 4. Apri il browser (Chrome, Safari, etc.) e vai alla pagina **http://192.168.4.1:5000**, si aprirà la pagina di configurazione TwinPlay:
+
 ### Salvataggio rete
 5. Seleziona la rete WIFI a cui vuoi collegare la telecamera, inserisci la
 password e schiaccia sul tasto “Connetti”
