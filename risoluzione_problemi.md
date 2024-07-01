@@ -1,4 +1,15 @@
 # Risoluzioni problemi
+## Stati
+La spia presente sull'unità indica lo stato in cui è il dispositivo:
+
+| Spia                                     | Stato                                    |
+|------------------------------------------|------------------------------------------|
+| Spenta                                   | Unità spenta o in errore                 |
+| Lampeggio lento e regolare (0.5s - 0.5s) | Ripresa e upload in corso                |
+| Lampeggio doppio                         | Modalità nuova associazione rete         |
+| Lampeggio veloce (0.2s - 0.2s)           | Rete connessa ma telecamera non connessa |
+| Spia accesa                              | Upload in corso                          |
+
 
 ## Dopo l’accensione la spia lampeggia con doppio impulso
 L’unità non ha rilevato reti conosciute
