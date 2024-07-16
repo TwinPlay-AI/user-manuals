@@ -9,7 +9,12 @@ dall’unità. La procedura dovrà essere ripetuta nel caso in cui:
 - Un dispositivo che possa connettersi a una rete wifi con un browser (telefono, tablet, PC, etc.)
 - Una rete wifi con accesso a internet di cui si conosce il nome e la password e che **non richieda successiva autenticazione** tramite browser
 
-Attenzione, se la rete è creata come hotspot da telefono, è necessario avere un secondo dispositivo (un altro telefono, un tablet o PC) per effettuare questa procedura (non è possibile farla dallo stesso dispositivo che crea la connessione).
+**Attenzione**: La telecamera supporta principalmente reti wifi a 2.4 GHz. Alcuni canali a 5 GHz non sono supportati.
+- Hotspot da telefono android: accedere alle impostazioni dell’hotspot e impostare la frequenza a `2.4 GHz`
+- Hotspot da iPhone: accedere alle impostazioni dell’hotspot e spuntare l'opzione `ottimizza compatibilità`
+
+**Attenzione**: se la rete è creata come hotspot da telefono, è **necessario avere un secondo dispositivo** (un altro telefono, un tablet o PC) per effettuare questa procedura (non è possibile farla dallo stesso dispositivo che crea la connessione).
+
 ## Procedura di associazione
 1. Assicurati che l’hotspot o la rete wifi siano attivi prima di accendere
 l’unità.
