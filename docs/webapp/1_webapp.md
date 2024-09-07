@@ -2,17 +2,35 @@
 id: webapp
 ---
 
-# Navigazione Webapp
+# Web-app Coach
+
+## Registrazione
+Una volta che l'amministratore ha inserito la mail societaria, riceverai un invito per registrarti alla piattaforma TwinPlay.
+Clicca sul link ricevuto e segui la procedura di registrazione.
+:::danger Attenzione 
+Ricordati la password scelta per l'accesso, se non la ricordi più puoi sempre resettarla da [qui](https://app.twinplay.ai/accounts/password_reset/).
+:::
 
 ## Accesso
 
-1. Collegati al sito [app.twinplay.ai](https://app.twinplay.ai)
-2. Inserisci le credenziali fornite dall'amministratore
+<img src="/img/qrcode_app.twinplay.ai.png" alt="qr_wifi" width="200" />
+
+1. Collegati al sito <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>
+2. Inserisci le tue credenziali
 3. Clicca su `Login`
+:::danger Attenzione
+Inserire l'indirizzo e-mail con tutte le lettere **`minuscole`**.
+:::
 
 ## Dashboard
 
 ![webapp-coach](/img/webapp-coach.png)
+
+Dalla tua dashboard puoi vedere:
+- le statistiche di tutti i giocatori e di tutti gli allenamenti
+- statistiche allenamento per allenamento e per giocatore
+- tutti i video degli allenamenti compresi gli highlights, i video giocatore per giocatore e i video in realtà aumentata
+
 
 ### Statistiche
 
