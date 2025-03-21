@@ -22,7 +22,7 @@ La procedura dovrà essere ripetuta nel caso in cui:
 
 :::danger[Attenzione]
 - Assicurarsi che la rete wifi abbia accesso a internet e non richieda successiva autenticazione (oltre alla password)
-- La telecamera supporta principalmente reti wifi a 2.4 GHz. Alcuni canali a 5 GHz non sono supportati. Vedi [**Configurazione**](#configurazione-hotspot-da-telefono) per maggiori informazioni
+- La telecamera supporta principalmente reti wifi a **2.4 GHz**. Alcuni canali a 5 GHz non sono supportati. Vedi [**Configurazione**](#configurazione-hotspot-da-telefono) per maggiori informazioni
 - In caso di hotspot da telefono è necessario avere un secondo dispositivo per effettuare la procedura di associazione
 :::
 
@@ -32,12 +32,11 @@ La procedura dovrà essere ripetuta nel caso in cui:
 
 ## Procedura di associazione
 
-1. Accendi la rete wifi a cui vuoi associare la telecamera e l'unità di elaborazione (attendi che la spia inizi a lampeggiare)
-2. Doppio click sul pulsante per avviare la procedura di associazione. Attendi che la spia faccia faccia un doppio lampeggio prima di proseguire.
-   (Vedi [**Comandi**](2_before%20starting%20.md#comandi) e [**Stati**](2_before%20starting%20.md#stati) per maggiori informazioni)
+1. Accendi la rete wifi a cui vuoi associare la telecamera
+2. Accendi l'unità di elaborazione. E' importante che questa venga accesa **DOPO** aver acceso la rete wifi.
+3. Attendi che la spia faccia faccia un doppio lampeggio prima di proseguire.
+   (Vedi [**Comandi**](before-starting#comandi) e [**Stati**](before-starting#stati) per maggiori informazioni)
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-  <img src="/img/button_spring_green_double.gif" alt="double_press" style={{ width: '50px' }} />
-  <span style={{ fontSize: '40px', margin: '0 20px' }}>&#8594;</span> {/* Large arrow */}
   <span style={{ fontSize: '20px'}}>wait</span> {/* Large arrow */}
   <img src="/img/blink2_400ms_50_1000ms.gif" alt="lampeggio_doppio" style={{ width: '80px' }} />
 </div>

@@ -1,6 +1,6 @@
 ---
 id: dashboard
-draft: true
+unlisted: true
 ---
 
 # Dashboard
