@@ -11,7 +11,6 @@ Una volta configurata
 
 La spia presente sull'unità indica lo stato in cui è il dispositivo:
 
-
 | Spia                                                      | Stato                             | Descrizione        | <div style={{width: "120px"}}>Registrazione</div> | <div style={{width: "120px"}}>Upload</div>   | <div style={{width: "120px"}}>Associazione</div> |
 |-----------------------------------------------------------|-----------------------------------|--------------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------------|
 | ![spenta](/img/blink1_1000ms_0_0ms.gif)                   | Spenta, in errore o in accensione | Spenta             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>❌</div>       |

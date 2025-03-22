@@ -21,7 +21,7 @@ automatico. Se l’unità era già collegata all’alimentazione ed era stata
 spenta in precedenza da pulsante, è possibile riaccenderla ancora tramite
 pulsante.
 2. In circa 1 minuto l’unità si avvia e il pulsante luminoso inizierà a
-lampeggiare regolarmente. Se la spia indica uno stato diverso verifica [qui](before-starting#stati) per maggiori informazioni.
+lampeggiare regolarmente. Se la spia indica uno stato diverso verifica [qui](./2_beforestarting.md#stati) per maggiori informazioni.
 
 ## Allenati
 
