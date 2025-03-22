@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera": {
+    "message": "📹 Utilizzo Camera",
+    "description": "The label for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera.link.generated-index.title": {
+    "message": "Utilizzo Camera",
+    "description": "The generated-index page title for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp": {
+    "message": "💻 WebApp",
+    "description": "The label for category 💻 WebApp in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp.link.generated-index.title": {
+    "message": "WebApp",
+    "description": "The generated-index page title for category 💻 WebApp in sidebar menu"
+  }
+}

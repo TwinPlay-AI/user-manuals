@@ -17,11 +17,14 @@ const config = {
 
   i18n: {
     defaultLocale: 'it',
-    locales: ['en', 'it'],
+    locales: ['it', 'en'],
     localeConfigs: {
       en: {
         htmlLang: 'en-US',
-      }
+      },
+      it: {
+        htmlLang: 'it-IT',
+      },
     },
   },
 
@@ -50,6 +53,7 @@ const config = {
         logo: {
           alt: 'TwinPlay Logo',
           src: 'img/logo.png',
+          srcDark: 'img/logo_green.png',
         },
         items: [
           {
