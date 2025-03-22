@@ -8,7 +8,7 @@ const config = {
   url: 'https://docs.twinplay.ai',
   baseUrl: '/',
 
-  organizationName: 'twinplay',
+  organizationName: 'TwinPlay-AI',
   projectName: 'user-manuals',
 
   onBrokenLinks: 'throw',
