@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera": {
+    "message": "📹 Cam Usage",
+    "description": "The label for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera.link.generated-index.title": {
+    "message": "Cam Usage",
+    "description": "The generated-index page title for category 📹 Utilizzo Camera in sidebar menu"
+  }
+}
