@@ -17,13 +17,16 @@ const config = {
 
   i18n: {
     defaultLocale: 'it',
-    locales: ['it', 'en'],
+    locales: ['it', 'en', 'es'],
     localeConfigs: {
       en: {
         htmlLang: 'en-US',
       },
       it: {
         htmlLang: 'it-IT',
+      },
+      es: {
+        htmlLang: 'es-ES',
       },
     },
   },
