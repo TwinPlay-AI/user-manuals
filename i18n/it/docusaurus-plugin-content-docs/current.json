@@ -4,11 +4,11 @@
     "description": "The label for version current"
   },
   "sidebar.menu.category.📹 Utilizzo Camera": {
-    "message": "📹 Utilizzo Camera",
+    "message": "📹 Camera Usage",
     "description": "The label for category 📹 Utilizzo Camera in sidebar menu"
   },
   "sidebar.menu.category.📹 Utilizzo Camera.link.generated-index.title": {
-    "message": "Utilizzo Camera",
+    "message": "Camera Usage",
     "description": "The generated-index page title for category 📹 Utilizzo Camera in sidebar menu"
   },
   "sidebar.menu.category.💻 WebApp": {
@@ -20,7 +20,7 @@
     "description": "The generated-index page title for category 💻 WebApp in sidebar menu"
   },
   "sidebar.menu.category.Giocatori": {
-    "message": "Giocatori",
+    "message": "Players",
     "description": "The label for category Giocatori in sidebar menu"
   },
   "sidebar.menu.category.Team": {

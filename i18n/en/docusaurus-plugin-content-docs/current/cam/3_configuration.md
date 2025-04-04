@@ -4,35 +4,72 @@ id: configuration
 
 # Configuration
 
-## When Needed
+## When it's required
 :::tip[Note]
-- On first use, it is necessary to pair the camera with one (or more) WiFi networks with internet access.
-- All saved networks remain in memory, and the camera will automatically connect to the first available network.
+- The first time you use the device, you need to connect it to one (or more) Wi-Fi networks with internet access  
+- All saved networks remain in memory, and the camera will automatically connect to the first available one
 :::
 
-The procedure must be repeated if:
+You’ll need to repeat the procedure if:
 
-1. The network name or password is changed.
-2. You want to pair the unit with a new network that it has never accessed before.
+1. The name or password of the network has changed  
+2. You want to connect the unit to a new network it hasn’t accessed before
 
 ## Requirements
 
-- A WiFi network with internet access, whose name and password are known.
-- A phone, tablet, or PC different from the one used as a hotspot.
+- A Wi-Fi network with internet access (you must know the name and password)  
+- A phone, tablet, or PC different from the one used as a hotspot
 
 :::danger[Warning]
-- Ensure the WiFi network has internet access and does not require additional authentication (besides the password).
-- The camera mainly supports **2.4 GHz** WiFi networks. Some 5 GHz channels are not supported. See [**Hotspot Configuration**](#phone-hotspot-configuration) for more information.
-- If using a mobile hotspot, a second device is needed for pairing.
+- Make sure the Wi-Fi network has internet access and **does not require additional login/authentication** (besides the password)  
+- The camera primarily supports **2.4 GHz** networks. Some **5 GHz** channels are not supported. See [**Hotspot Configuration**](#phone-hotspot-configuration) for more info  
+- If using a phone as a hotspot, a **second device is required** to complete the pairing procedure
 :::
 
 ### Phone Hotspot Configuration
-- **Android Hotspot**: Go to hotspot settings and set the frequency to `2.4 GHz`.
-- **iPhone Hotspot**: Go to hotspot settings and enable the `Optimize Compatibility` option.
+- Android: go to hotspot settings and set frequency to `2.4 GHz`  
+- iPhone: go to hotspot settings and enable `maximize compatibility`
 
 ## Pairing Procedure
 
-1. Turn on the WiFi network you want to connect the camera to.
-2. Turn on the processing unit. It is important to turn it on **AFTER** activating the WiFi network.
-3. Wait until the light flashes twice before proceeding.
-   (See [**Commands**](before-starting#commands) and [**States**](before-starting#states) for more information).
+1. Turn on the Wi-Fi network you want to connect the camera to  
+2. Turn on the processing unit. It's important to power it on **AFTER** the Wi-Fi network is active  
+3. Wait until the LED flashes in **double blink mode** before proceeding  
+   (See [**Controls**](before-starting#comandi) and [**Status**](before-starting#stati) for more info)
+   
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+  <span style={{ fontSize: '20px'}}>wait</span> {/* Large arrow */}
+  <img src="/img/blink2_400ms_50_1000ms.gif" alt="lampeggio_doppio" style={{ width: '80px' }} />
+</div>
+
+<details>
+  <summary>a) Using QR code</summary>
+  
+3. Scan the first QR code to connect to the TwinPlay Wi-Fi
+
+   <img src="/img/QR_wifi.png" alt="qr_wifi" width="150" />
+
+4. Scan the second QR code to open the TwinPlay configuration page
+
+   <img src="/img/QR_link.png" alt="qr_link" width="150" />
+</details>
+
+<details>
+  <summary>b) Without QR code</summary>
+
+3. Connect to the network
+```
+Rete:       TwinPlay 
+Password:   TwinPlayCamera 
+```
+
+4. Open your browser (Chrome, Safari, etc.) and go to **http://192.168.4.1:5000**, the TwinPlay configuration page will open.
+</details>
+
+### Saving the Network
+
+5. Select the Wi-Fi network you want to connect the camera to, enter the password, and click “Connect”  
+6. Wait one minute.
+
+If the pairing is successful, the LED will **start blinking steadily**, and recording will begin immediately.  
+If it returns to **double blink mode**, pairing failed: check internet access and make sure the password is correct.
