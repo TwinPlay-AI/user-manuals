@@ -2,37 +2,73 @@
 id: configuration
 ---
 
-# Configuration
+# Configuración
 
-## When Needed
-:::tip[Note]
-- On first use, it is necessary to pair the camera with one (or more) WiFi networks with internet access.
-- All saved networks remain in memory, and the camera will automatically connect to the first available network.
+## Cuándo es necesario
+:::tip[Nota]
+- En el primer uso, es necesario emparejar la cámara con una (o más) redes WiFi con acceso a internet.
+- Todas las redes guardadas permanecen en la memoria, y la cámara se conectará automáticamente a la primera red disponible.
 :::
 
-The procedure must be repeated if:
+El procedimiento debe repetirse si:
 
-1. The network name or password is changed.
-2. You want to pair the unit with a new network that it has never accessed before.
+1. Se cambia el nombre o la contraseña de la red.
+2. Deseas emparejar la unidad con una nueva red a la que nunca haya accedido antes.
 
-## Requirements
+## Requisitos
 
-- A WiFi network with internet access, whose name and password are known.
-- A phone, tablet, or PC different from the one used as a hotspot.
+- Una red WiFi con acceso a internet, cuyo nombre y contraseña sean conocidos.
+- Un teléfono, tableta o PC diferente del que se utiliza como punto de acceso.
 
-:::danger[Warning]
-- Ensure the WiFi network has internet access and does not require additional authentication (besides the password).
-- The camera mainly supports **2.4 GHz** WiFi networks. Some 5 GHz channels are not supported. See [**Hotspot Configuration**](#phone-hotspot-configuration) for more information.
-- If using a mobile hotspot, a second device is needed for pairing.
+:::danger[Advertencia]
+- Asegúrate de que la red WiFi tenga acceso a internet y no requiera autenticación adicional (además de la contraseña).
+- La cámara admite principalmente redes WiFi de **2.4 GHz**. Algunos canales de 5 GHz no son compatibles. Consulta [**la configuración del punto de acceso**](#phone-hotspot-configuration) para más información.
+- Si usas un punto de acceso móvil, se necesita un segundo dispositivo para el emparejamiento.
 :::
 
-### Phone Hotspot Configuration
-- **Android Hotspot**: Go to hotspot settings and set the frequency to `2.4 GHz`.
-- **iPhone Hotspot**: Go to hotspot settings and enable the `Optimize Compatibility` option.
+### Configuración del punto de acceso del teléfono
+- Punto de acceso en `Android`: Ve a la configuración del punto de acceso y establece la frecuencia en `2.4 GHz`.
+- Punto de acceso en `iPhone`: Ve a la configuración del punto de acceso y habilita la opción `Optimizar compatibilidad`.
 
-## Pairing Procedure
+## Procedimiento de asociación
 
-1. Turn on the WiFi network you want to connect the camera to.
-2. Turn on the processing unit. It is important to turn it on **AFTER** activating the WiFi network.
-3. Wait until the light flashes twice before proceeding.
-   (See [**Commands**](before-starting#commands) and [**States**](before-starting#states) for more information).
+1. Enciende la red WiFi a la que deseas asociar la cámara.
+2. Enciende la unidad de procesamiento. Es importante que esta se encienda **DESPUÉS** de haber encendido la red WiFi.
+3. Espera a que la luz indicadora haga un doble parpadeo antes de continuar.
+   (Consulta las secciones [**Comandos**](before-starting#comandos) y [**Estados**](before-starting#estados) para más información)
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+  <span style={{ fontSize: '20px'}}>espera</span> {/* Flecha grande */}
+  <img src="/img/blink2_400ms_50_1000ms.gif" alt="doble_parpadeo" style={{ width: '80px' }} />
+</div>
+
+<details>
+  <summary>a) Con código QR</summary>
+  
+1. Escanea el primer código QR para conectarte a la red TwinPlay.
+
+   <img src="/img/QR_wifi.png" alt="qr_wifi" width="150" />
+
+2. Escanea el segundo código QR para ser redirigido a la página de configuración de TwinPlay.
+
+   <img src="/img/QR_link.png" alt="qr_link" width="150" />
+</details>
+
+<details>
+  <summary>b) Sin código QR</summary>
+
+```
+Red: TwinPlay
+Contraseña: TwinPlayCamera
+```
+
+1. Conéctate a la red.
+
+2. Abre el navegador (Chrome, Safari, etc.) y ve a la página **http://192.168.4.1:5000**, donde se abrirá la página de configuración de TwinPlay.
+</details>
+
+### Guardar red
+
+5. Selecciona la red WiFi a la que deseas conectar la cámara, introduce su contraseña y haz clic en el botón “Conectar”.
+6. Espera 1 minuto.
+
+Si la asociación se realizó correctamente, la luz indicadora comenzará a **parpadear regularmente**, iniciando directamente la grabación del entrenamiento. Si la luz vuelve a parpadear con 2 impulsos rápidos, la asociación no se completó correctamente: verifica que la conexión tenga acceso a internet y que la contraseña ingresada sea correcta.

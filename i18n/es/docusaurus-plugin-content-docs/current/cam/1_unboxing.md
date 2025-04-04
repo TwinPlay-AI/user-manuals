@@ -2,24 +2,24 @@
 id: unboxing
 ---
 
-# Unboxing (Spanish)
+# Desempaquetado
 
-:::danger[Warning]
-Be very careful when loosening the tripod keys. The springs are pre-compressed, and the tube may extend very quickly: hold the upper end with one hand and loosen the key progressively.
+:::danger[Advertencia]
+Tenga mucho cuidado al aflojar las llaves del trípode. Los resortes están precomprimidos y el tubo puede extenderse muy rápidamente: sujete el extremo superior con una mano y afloje la llave progresivamente.
 :::
 
-## Box Contents
- - 1 Tripod with processing unit and USB cable
- - 1 Camera
- - 1 Power adapter
- - 1 Carrying bag
+## Contenido de la caja
+ - 1 Trípode con unidad de procesamiento y cable USB
+ - 1 Cámara
+ - 1 Adaptador de corriente
+ - 1 Bolsa de transporte
 
-## Assembly
+## Montaje
 
-1. Screw the camera onto the end of the tripod
-2. Connect the USB cable to the camera
-3. Plug the power cable into the unit.
+1. Atornille la cámara en el extremo del trípode.
+2. Conecte el cable USB a la cámara.
+3. Conecte el cable de alimentación a la unidad.
 
-:::tip[Note]
-When not in use, the power adapter and camera can be stored in the **internal pocket** of the carrying bag.
+:::tip[Nota]
+Cuando no estén en uso, el adaptador de corriente y la cámara se pueden guardar en el **bolsillo interno** de la bolsa de transporte.
 :::

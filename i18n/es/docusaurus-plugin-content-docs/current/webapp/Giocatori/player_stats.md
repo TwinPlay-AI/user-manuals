@@ -2,50 +2,50 @@
 id: webapp-player
 ---
 
-# 📊 Dashboard
+# 📊 Panel de Control
 
 ![webapp-player](/img/webapp-players.png)
 
-From your dashboard, you can access:
-- Your **personal statistics** from all training sessions you've attended
-- Your **individual videos**, including:
-  - Automatic highlights 🎥  
-  - Full videos of your plays 🏀  
-  - Augmented reality videos 🔥  
+Desde tu panel de control, puedes acceder a:
+- Tus **estadísticas personales** de todas las sesiones de entrenamiento en las que has participado
+- Tus **videos individuales**, incluyendo:
+  - Resúmenes automáticos 🎥  
+  - Videos completos de tus jugadas 🏀  
+  - Videos con realidad aumentada 🔥  
 
 ---
 
-## 📈 Statistics
+## 📈 Estadísticas
 
-Track the evolution of your performance over time:
+Sigue la evolución de tu rendimiento a lo largo del tiempo:
 
-- Shooting percentages
-- Number of shots attempted, made, and missed
-- Shot zone heatmaps 📍
-- Streaks of successful shots 📊
-- Time-based performance analysis ⏳
-
----
-
-## 🚀 Advanced Statistics
-
-Access advanced metrics to refine your technique:
-
-- ⏱ **Release time**: How quickly you shoot after receiving the ball  
-- 🎯 **Entry angle**: The trajectory angle of the ball entering the basket  
-- 🔄 **Shooting consistency**: How steady your motion is during a session  
-- 🎯 **Most common errors**: Identify if you tend to miss short, long, flat, or with too much arc — and learn how to fix it  
-
-These insights help you understand where to improve and **track your progress over time**. 📈
+- Porcentajes de tiro
+- Número de tiros intentados, encestados y fallados
+- Mapas de calor de zonas de tiro 📍
+- Rachas de tiros exitosos 📊
+- Análisis de rendimiento basado en el tiempo ⏳
 
 ---
 
-## 🎥 Trainings and Videos
+## 🚀 Estadísticas Avanzadas
 
-You can review and analyze every training session in detail:
-- **Select a session** to view your stats
-- **Watch your personal videos**
-- **Download and share your best moments** on social media!
+Accede a métricas avanzadas para perfeccionar tu técnica:
 
-> 🎯 If you share them, **tag @TwinPlay.ai**!  
-> We'd love to repost your best actions! 🚀
+- ⏱ **Tiempo de lanzamiento**: Qué tan rápido lanzas después de recibir el balón  
+- 🎯 **Ángulo de entrada**: El ángulo de trayectoria del balón al entrar en la canasta  
+- 🔄 **Consistencia de tiro**: Qué tan estable es tu movimiento durante una sesión  
+- 🎯 **Errores más comunes**: Identifica si tiendes a fallar corto, largo, plano o con demasiado arco — y aprende cómo corregirlo  
+
+Estos datos te ayudan a entender dónde mejorar y **seguir tu progreso a lo largo del tiempo**. 📈
+
+---
+
+## 🎥 Entrenamientos y Videos
+
+Puedes revisar y analizar cada sesión de entrenamiento en detalle:
+- **Selecciona una sesión** para ver tus estadísticas
+- **Mira tus videos personales**
+- **Descarga y comparte tus mejores momentos** en redes sociales.
+
+> 🎯 Si los compartes, **etiqueta a @TwinPlay.ai**.  
+> ¡Nos encantaría republicar tus mejores acciones! 🚀

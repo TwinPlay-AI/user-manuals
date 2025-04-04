@@ -2,82 +2,82 @@
 id: team_stats
 ---
 
-# 📊 Dashboard
+# 📊 Panel de Control
 
 ![webapp-coach](/img/webapp-coach.png)
 
-From your dashboard you can view:
-- **Statistics for all players** and **all training sessions**
-- Detailed data **per session** and **per player**
-- All **training videos**, including:
-  - Automatic highlights 🎥  
-  - Player-specific videos 🏀  
-  - Augmented reality videos 🔥  
+Desde tu panel de control puedes ver:
+- **Estadísticas de todos los jugadores** y **todas las sesiones de entrenamiento**
+- Datos detallados **por sesión** y **por jugador**
+- Todos los **videos de entrenamiento**, incluyendo:
+  - Resúmenes automáticos 🎥  
+  - Videos específicos por jugador 🏀  
+  - Videos con realidad aumentada 🔥  
 
 ---
 
-## 📈 Statistics
+## 📈 Estadísticas
 
-### 🏀 **Individual Statistics**
-- Shooting percentages
-- Number of shots attempted, made, and missed
-- Shot zone heatmaps 📍
-- Streaks of successful shots 📊
-- Time-based performance analysis ⏳
+### 🏀 **Estadísticas Individuales**
+- Porcentajes de tiro
+- Número de tiros intentados, encestados y fallados
+- Mapas de calor de zonas de tiro 📍
+- Rachas de tiros exitosos 📊
+- Análisis de rendimiento basado en el tiempo ⏳
 
-### 📢 **Team Statistics**
-- Internal player rankings 🏆
-- Comparison between training sessions 📊
-- Seasonal performance trends 📅
-
----
-
-## 🚀 **Advanced Statistics**
-
-Thanks to TwinPlay technology, you can access **advanced metrics** to enhance performance analysis:
-
-- ⏱ **Release time**: How quickly a player shoots after receiving the ball  
-- 🎯 **Entry angle**: The angle at which the ball enters the basket  
-- 🔄 **Shooting consistency**: How steady the player is throughout the session  
-- 🎯 **Most common errors**: Detect whether the player tends to miss short, long, flat, or with too much arc — to improve shooting technique
-
-These insights allow coaches to **identify and correct shooting flaws**, and help players **improve their effectiveness** on the court.
+### 📢 **Estadísticas del Equipo**
+- Rankings internos de jugadores 🏆
+- Comparación entre sesiones de entrenamiento 📊
+- Tendencias de rendimiento por temporada 📅
 
 ---
 
-## 📌 Roster
+## 🚀 **Estadísticas Avanzadas**
 
-Manage registered players, add new ones, and view personal data and statistics:
-- **Select a player** to view detailed stats and data
-- **Edit personal information** and upload a profile photo
+Gracias a la tecnología de TwinPlay, puedes acceder a **métricas avanzadas** para mejorar el análisis del rendimiento:
 
----
+- ⏱ **Tiempo de lanzamiento**: Qué tan rápido un jugador lanza después de recibir el balón  
+- 🎯 **Ángulo de entrada**: El ángulo en el que el balón entra en la canasta  
+- 🔄 **Consistencia de tiro**: Qué tan estable es el jugador durante la sesión  
+- 🎯 **Errores más comunes**: Detecta si el jugador tiende a fallar corto, largo, plano o con demasiado arco — para mejorar la técnica de tiro
 
-## 🎥 Trainings and Videos
-
-Review and analyze each training session in detail:
-- **Select a training session** to view data and videos
-- **Watch session highlights and player videos**
-- **Download and share videos** on social media
-
-> 🎯 If you post content, **tag @TwinPlay.ai**!  
-> We’ll be happy to **reshare the best clips** on our page! 🚀  
+Estos datos permiten a los entrenadores **identificar y corregir fallos en el tiro**, y ayudan a los jugadores a **mejorar su efectividad** en la cancha.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## 📌 Plantilla
 
-### ❔ What if I can't see my videos?
-- Videos are not immediately available — processing time is required before they appear.
-- Did you tag the session with the players who participated?  
-- Did the camera complete the upload and turn off correctly at the end of the session?  
-- Contact us if the videos are still missing after 24 hours.
+Gestiona a los jugadores registrados, añade nuevos y consulta datos personales y estadísticas:
+- **Selecciona un jugador** para ver estadísticas y datos detallados
+- **Edita información personal** y sube una foto de perfil
 
 ---
 
-💡 **Tip:** After each session, **check the statistics** to identify areas of improvement and optimize future trainings. 🚀
+## 🎥 Entrenamientos y Videos
+
+Revisa y analiza cada sesión de entrenamiento en detalle:
+- **Selecciona una sesión de entrenamiento** para ver datos y videos
+- **Mira los resúmenes de la sesión y los videos de los jugadores**
+- **Descarga y comparte videos** en redes sociales
+
+> 🎯 Si publicas contenido, **etiqueta a @TwinPlay.ai**.  
+> ¡Estaremos encantados de **republicar los mejores clips** en nuestra página! 🚀  
 
 ---
 
-Thanks for using **TwinPlay**!  
-If you have suggestions or want to share your experience, reach out or **tag us on social media**!
+## ❓ Preguntas Frecuentes (FAQ)
+
+### ❔ ¿Qué hago si no puedo ver mis videos?
+- Los videos no están disponibles de inmediato — se requiere tiempo de procesamiento antes de que aparezcan.
+- ¿Etiquetaste la sesión con los jugadores que participaron?  
+- ¿La cámara completó la subida y se apagó correctamente al final de la sesión?  
+- Contáctanos si los videos siguen sin aparecer después de 24 horas.
+
+---
+
+💡 **Consejo:** Después de cada sesión, **revisa las estadísticas** para identificar áreas de mejora y optimizar futuros entrenamientos. 🚀
+
+---
+
+Gracias por usar **TwinPlay**.  
+Si tienes sugerencias o quieres compartir tu experiencia, contáctanos o **etiquétanos en redes sociales**.

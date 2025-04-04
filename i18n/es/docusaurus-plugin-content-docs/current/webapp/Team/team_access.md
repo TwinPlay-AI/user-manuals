@@ -2,30 +2,30 @@
 id: team_access
 ---
 
-# Team Access
+# Acceso del Equipo
 
-## 🔹 Introduction
-TwinPlay offers an advanced platform to monitor your players’ performance and improve training effectiveness through detailed statistics and video analysis. Here's everything you can do! 🚀
+## 🔹 Introducción
+TwinPlay ofrece una plataforma avanzada para monitorear el rendimiento de tus jugadores y mejorar la efectividad del entrenamiento mediante estadísticas detalladas y análisis de video. ¡Aquí tienes todo lo que puedes hacer! 🚀
 
 ---
 
-## 📧 Registration
-Once we’ve added your team’s email address, you will receive an invitation to register on the TwinPlay platform.  
-Click the link in the email and follow the registration steps.
+## 📧 Registro
+Una vez que hayamos añadido la dirección de correo electrónico de tu equipo, recibirás una invitación para registrarte en la plataforma TwinPlay.  
+Haz clic en el enlace del correo electrónico y sigue los pasos de registro.
 
-:::danger Attention 
-- Remember the password you chose for access. If you forget it, you can always reset it [here](https://app.twinplay.ai/accounts/password_reset/).  
-- Didn’t receive the invitation? Check your **spam folder**, or contact us to verify your email was entered correctly.
+:::danger Atención 
+- Recuerda la contraseña que elijas para acceder. Si la olvidas, siempre puedes restablecerla [aquí](https://app.twinplay.ai/accounts/password_reset/).  
+- ¿No recibiste la invitación? Revisa tu **carpeta de spam** o contáctanos para verificar que tu correo electrónico se ingresó correctamente.
 :::
 
 ---
 
-## 🔑 Login
+## 🔑 Inicio de Sesión
 
 <img src="/img/qrcode_app.twinplay.ai.png" alt="qr_wifi" width="200" />
 
-1. Go to <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>  
-2. Enter your credentials  
-3. Click `Login`
+1. Ve a <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>  
+2. Ingresa tus credenciales  
+3. Haz clic en `Iniciar sesión`
 
 ---

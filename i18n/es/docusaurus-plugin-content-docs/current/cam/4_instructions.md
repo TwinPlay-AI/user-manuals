@@ -2,30 +2,34 @@
 id: instructions
 ---
 
-# Usage Instructions
+# Instrucciones de uso
 
-## Positioning
+## Posicionamiento
 
-1. Place the tripod approximately at mid-court, outside the sideline.
-2. Extend the tripod, ensuring that the central tube does not touch the ground (only the three tripod feet should be in contact with the surface).
-3. Verify that the USB cable is connected both to the camera and the processing unit.
-4. Extend the three sections of the tripod to reach the maximum height and direct the camera towards the basket.
+1. Coloca el trípode aproximadamente en el centro de la cancha, fuera de la línea lateral.
+2. Extiende el trípode, asegurándote de que el tubo central no toque el suelo (solo las tres patas del trípode deben estar en contacto con la superficie).
+3. Verifica que el cable USB esté conectado tanto a la cámara como a la unidad de procesamiento.
+4. Extiende las tres secciones del trípode para alcanzar la altura máxima y dirige la cámara hacia la canasta.
 
-## Powering On
+## Encendido
 
-1. Connect the power adapter to an electrical outlet. The unit will automatically turn on. If the unit was already plugged in but had been turned off using the button, you can turn it back on using the button.
-2. In about 1 minute, the unit will boot up, and the light button will start blinking regularly. If the indicator light shows a different state, check [here](before-starting#states) for more information.
+1. Conecta el adaptador de corriente a una toma eléctrica. La unidad se encenderá automáticamente. Si la unidad ya estaba conectada pero había sido apagada usando el botón, puedes volver a encenderla usando el botón.
+2. En aproximadamente 1 minuto, la unidad se iniciará, y el botón luminoso comenzará a parpadear regularmente. Si la luz indicadora muestra un estado diferente, consulta [aquí](before-starting#states) para más información.
 
-## Training
+## Entrenamiento
 
-1. Have all the players who will take part in the session line up in front of the camera (approximately on the three-point line closest to the camera).
-2. Train as usual.
+1. Haz que todos los jugadores que participarán en la sesión se alineen frente a la cámara (aproximadamente en la línea de tres puntos más cercana a la cámara).
+2. Entrena como de costumbre.
 
-## Ending the Session
+## Finalización de la sesión
 
-1. At the end of the training session, hold down the button for 1 second until the light becomes steady. The unit will stop recording, finish uploading the video, and automatically shut down.
-2. Once the indicator light has turned off, you can turn off the WiFi network and unplug the power.
+1. Al final de la sesión de entrenamiento, mantén presionado el botón durante 1 segundo hasta que la luz se vuelva fija. La unidad dejará de grabar, finalizará la subida del video y se apagará automáticamente.
+2. Una vez que la luz indicadora se haya apagado, puedes apagar la red WiFi y desconectar la alimentación.
 
-:::tip[Note]
-For consecutive training sessions with different players, it is recommended to separate sessions by briefly pressing the button. In this case, the light will turn off for a few seconds and then start blinking again. This ensures the previous session is completed and a new session starts.
+:::tip[Nota]
+Para sesiones de entrenamiento consecutivas con diferentes jugadores, se recomienda separar las sesiones presionando brevemente el botón. En este caso, la luz se apagará durante unos segundos y luego comenzará a parpadear nuevamente. Esto asegura que la sesión anterior se complete y que una nueva sesión comience.
 :::
+
+# Video guía
+¿Prefieres ver el video? Aquí tienes una guía rápida sobre cómo usar la cámara:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09SuO-30Nlo?si=HTF-2DR2wsDSOSIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

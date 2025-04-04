@@ -2,26 +2,25 @@
 id: webapp_players
 ---
 
-# Player Access
+# Acceso de Jugadores
 
-Below you'll find all the information you need to **register**, **log in**, and **navigate** the TwinPlay platform.
+A continuación, encontrarás toda la información que necesitas para **registrarte**, **iniciar sesión** y **navegar** por la plataforma TwinPlay.
 
-## Registration
+## Registro
 
-1. Share your email address with your camp or team manager.
-2. You will receive an invitation to register on the TwinPlay platform.
-3. Click the link in the invitation and follow the registration steps.
+1. Comparte tu dirección de correo electrónico con el administrador de tu campamento o equipo.
+2. Recibirás una invitación para registrarte en la plataforma TwinPlay.
+3. Haz clic en el enlace de la invitación y sigue los pasos de registro.
 
-:::danger Attention 
-- Remember the password you choose for access. If you forget it, you can always reset it [here](https://app.twinplay.ai/accounts/password_reset/).
-- Didn’t receive the invitation? Check your **spam folder** or contact us to verify your email.
-
+:::danger Atención 
+- Recuerda la contraseña que elijas para acceder. Si la olvidas, siempre puedes restablecerla [aquí](https://app.twinplay.ai/accounts/password_reset/).
+- ¿No recibiste la invitación? Revisa tu **carpeta de spam** o contáctanos para verificar tu correo electrónico.
 :::
 
-## Login
+## Inicio de Sesión
 
 <img src="/img/qrcode_app.twinplay.ai.png" alt="qr_wifi" width="200" />
 
-1. Go to <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>
-2. Enter your credentials
-3. Click `Login`
+1. Ve a <a href="https://app.twinplay.ai" target="_blank">app.twinplay.ai</a>
+2. Ingresa tus credenciales
+3. Haz clic en `Iniciar sesión`

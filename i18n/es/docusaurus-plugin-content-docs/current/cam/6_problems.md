@@ -2,22 +2,22 @@
 id: problems
 ---
 
-# Troubleshooting
+# Solución de problemas
 
-## The indicator light blinks with a double flash after powering on
+## ![lampeggio_doppio](/img/blink2_400ms_50_1000ms.gif)   La luz indicadora parpadea con un doble destello después de encenderse
 
-The unit has not detected any known networks.
+La unidad no ha detectado ninguna red conocida.
 
-| Issue                                                                                                     | Solutions                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| No known networks available                                                                                | Turn on a known hotspot/router and restart the unit.<br/>Start the pairing procedure to connect to a new network [HERE](3_configuration.md). |
-| The connected network has no internet access                                                               | Verify the network functionality and restart the unit.                                                                                       |
-| The modem/hotspot was turned on after the camera and was not detected in time                              | Restart the unit.                                                                                                                            |
-| The connected network requires additional authentication                                                   | The camera does not support this type of network. Change the network or disable additional authentication.                                   |
-| The hotspot is set to an unsupported frequency (5 GHz) (On iPhones, check "Optimize Compatibility")        | Change the hotspot frequency to 2.4 GHz and restart the unit.                                                                                |   
+| Problema                                                                                                  | Soluciones                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| No hay redes conocidas disponibles                                                                        | Enciende un punto de acceso/router conocido y reinicia la unidad.<br/>Inicia el procedimiento de emparejamiento para conectarte a una nueva red [AQUÍ](3_configuration.md). |
+| La red conectada no tiene acceso a internet                                                               | Verifica la funcionalidad de la red y reinicia la unidad.                                                                                     |
+| El módem/punto de acceso se encendió después de la cámara y no fue detectado a tiempo                     | Reinicia la unidad.                                                                                                                           |
+| La red conectada requiere autenticación adicional                                                         | La cámara no admite este tipo de red. Cambia la red o desactiva la autenticación adicional.                                                   |
+| El punto de acceso está configurado en una frecuencia no compatible (5 GHz) (En iPhones, verifica "Optimizar compatibilidad") | Cambia la frecuencia del punto de acceso a 2.4 GHz y reinicia la unidad.                                                                      |
 
-## The indicator light blinks rapidly
+## ![lampeggio_rapido](/img/blink1_200ms_50_0ms.gif) La luz indicadora parpadea rápidamente
 
-| Issue | Solutions |
+| Problema | Soluciones |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The unit does not detect the camera | Verify that the cable is connected to one of the two USB ports on the unit.<br/>Check that the USB cable is connected to the camera.<br/>Restart the unit. |
+| La unidad no detecta la cámara        | Verifica que el cable esté conectado a uno de los dos puertos USB de la unidad.<br/>Comprueba que el cable USB esté conectado a la cámara.<br/>Reinicia la unidad. |

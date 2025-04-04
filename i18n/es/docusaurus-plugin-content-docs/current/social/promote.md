@@ -1,38 +1,38 @@
 ---
 id: promote
-title: Promote TwinPlay on Social Media! 🚀
+title: ¡Promociona TwinPlay en las redes sociales! 🚀
 ---
 
-# Help us spread the word about TwinPlay! 📢
+# ¡Ayúdanos a difundir TwinPlay! 📢
 
-We’re excited to see our technology in action and want to involve the community in growing it!  
-If you use TwinPlay at your events, training sessions, or in your content — help us share it with the world!
+Estamos emocionados de ver nuestra tecnología en acción y queremos involucrar a la comunidad para que crezca aún más.  
+Si utilizas TwinPlay en tus eventos, sesiones de entrenamiento o en tu contenido, ¡ayúdanos a compartirlo con el mundo!
 
-## 📂 **Graphics and Video Material**
-We’ve created a collection of resources (logos, videos, and more) that you can use to promote TwinPlay:
+## 📂 **Material gráfico y de video**
+Hemos creado una colección de recursos (logos, videos y más) que puedes usar para promocionar TwinPlay:
 
-👉 **[Download our logos and videos from Google Drive](https://drive.google.com/drive/folders/1ppG1t1VJBevf9wnFABH_75FO9ue9KoPR?usp=drive_link)**
+👉 **[Descarga nuestros logos y videos desde Google Drive](https://drive.google.com/drive/folders/1ppG1t1VJBevf9wnFABH_75FO9ue9KoPR?usp=drive_link)**
 
-Use these materials in your content to make your posts even more engaging and let your audience know you’re using our technology!
-
----
-
-## 🔥 **Tag us and we’ll reshare!**
-
-We love seeing how TwinPlay is used in the real world!  
-If you post content where you’re using it:
-- 📲 **Tag us in your posts and stories** on Instagram, Facebook, and X
-- 🏀 Use the official hashtag: **#TwinPlay**
-- 🎥 Share videos, experiences, and real-world use cases
-
-We’ll be happy to reshare the best content on our official page, helping grow the TwinPlay community even more! 🚀
+¡Usa estos materiales en tu contenido para que tus publicaciones sean aún más atractivas y para que tu audiencia sepa que estás utilizando nuestra tecnología!
 
 ---
 
-## 📱 Follow us on social media
+## 🔥 **¡Etiquétanos y lo compartiremos!**
 
-We share exclusive content, videos, case studies, and updates from the TwinPlay world.  
-Follow us on our official pages:
+¡Nos encanta ver cómo se utiliza TwinPlay en el mundo real!  
+Si publicas contenido donde lo estés usando:
+- 📲 **Etiquétanos en tus publicaciones e historias** en Instagram, Facebook y X
+- 🏀 Usa el hashtag oficial: **#TwinPlay**
+- 🎥 Comparte videos, experiencias y casos de uso reales
+
+¡Estaremos encantados de compartir el mejor contenido en nuestra página oficial, ayudando a que la comunidad de TwinPlay crezca aún más! 🚀
+
+---
+
+## 📱 Síguenos en las redes sociales
+
+Compartimos contenido exclusivo, videos, estudios de caso y actualizaciones del mundo de TwinPlay.  
+Síguenos en nuestras páginas oficiales:
 
 <p align="center">
   <a href="https://www.facebook.com/TwinPlayAI" target="_blank">
@@ -62,5 +62,5 @@ Follow us on our official pages:
 
 ---
 
-Thank you for your support! 💙  
-The **TwinPlay** team
+¡Gracias por tu apoyo! 💙  
+El equipo de **TwinPlay**
