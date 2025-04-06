@@ -10,5 +10,29 @@
   "sidebar.menu.category.📹 Utilizzo Camera.link.generated-index.title": {
     "message": "Cam Usage",
     "description": "The generated-index page title for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp": {
+    "message": "💻 WebApp",
+    "description": "The label for category 💻 WebApp in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp.link.generated-index.title": {
+    "message": "WebApp",
+    "description": "The generated-index page title for category 💻 WebApp in sidebar menu"
+  },
+  "sidebar.menu.category.Giocatori": {
+    "message": "Players",
+    "description": "The label for category Giocatori in sidebar menu"
+  },
+  "sidebar.menu.category.Team": {
+    "message": "Team",
+    "description": "The label for category Team in sidebar menu"
+  },
+  "sidebar.menu.category.📣 Social": {
+    "message": "📣 Social",
+    "description": "The label for category 📣 Social in sidebar menu"
+  },
+  "sidebar.menu.category.📣 Social.link.generated-index.title": {
+    "message": "Social",
+    "description": "The generated-index page title for category 📣 Social in sidebar menu"
   }
 }
