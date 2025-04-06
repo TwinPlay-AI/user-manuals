@@ -8,7 +8,7 @@ La unidad tiene un único botón con una luz indicadora integrada. La luz indica
 A continuación, se detallan los comandos y los estados de la luz indicadora.
 Una vez configurado:
 
-## Estados de la luz indicadora
+## Estados de la luz indicadora {#estados}
 
 La luz indicadora de la unidad muestra el estado del dispositivo:
 
@@ -20,7 +20,7 @@ La luz indicadora de la unidad muestra el estado del dispositivo:
 | ![doble_parpadeo](/img/blink2_400ms_50_1000ms.gif)       | Modo de emparejamiento de red     | Doble parpadeo    | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
 | ![luz_encendida](/img/blink1_1000ms_100_0ms.gif)         | Subida final                      | Luz fija          | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
 
-## Comandos
+## Comandos {#comandos}
 
 | Comando                                                | Descripción                         | Efecto                                                      |
 |--------------------------------------------------------|-------------------------------------|-------------------------------------------------------------|

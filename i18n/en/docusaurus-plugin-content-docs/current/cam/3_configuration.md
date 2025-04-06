@@ -35,7 +35,7 @@ You’ll need to repeat the procedure if:
 1. Turn on the Wi-Fi network you want to connect the camera to  
 2. Turn on the processing unit. It's important to power it on **AFTER** the Wi-Fi network is active  
 3. Wait until the LED flashes in **double blink mode** before proceeding  
-   (See [**Controls**](before-starting#comandi) and [**Status**](before-starting#stati) for more info)
+   (See [**Indicator States**](before-starting#indicator-light-states) and [**Commands**](before-starting#commands) for more info)
    
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
   <span style={{ fontSize: '20px'}}>wait</span> {/* Large arrow */}

@@ -15,7 +15,7 @@ id: instructions
 
 1. Connect the power adapter to an electrical outlet. The unit will automatically turn on. If the unit was already plugged in but had been turned off using the button, you can turn it back on using the button.  
 2. In about 1 minute, the unit will boot up, and the light button will start blinking regularly.  
-If the indicator light shows a different state, check [here](before-starting#states) for more information.
+If the indicator light shows a different state, check [**Indicator States**](before-starting#indicator-light-states) for more information.
 
 ## Training
 

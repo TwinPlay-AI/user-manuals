@@ -26,7 +26,7 @@ El procedimiento debe repetirse si:
 - Si usas un punto de acceso móvil, se necesita un segundo dispositivo para el emparejamiento.
 :::
 
-### Configuración del punto de acceso del teléfono
+### Configuración del punto de acceso del teléfono {#phone-hotspot-configuration}
 - Punto de acceso en `Android`: Ve a la configuración del punto de acceso y establece la frecuencia en `2.4 GHz`.
 - Punto de acceso en `iPhone`: Ve a la configuración del punto de acceso y habilita la opción `Optimizar compatibilidad`.
 

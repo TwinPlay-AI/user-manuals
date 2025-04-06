@@ -14,7 +14,7 @@ id: instructions
 ## Encendido
 
 1. Conecta el adaptador de corriente a una toma eléctrica. La unidad se encenderá automáticamente. Si la unidad ya estaba conectada pero había sido apagada usando el botón, puedes volver a encenderla usando el botón.
-2. En aproximadamente 1 minuto, la unidad se iniciará, y el botón luminoso comenzará a parpadear regularmente. Si la luz indicadora muestra un estado diferente, consulta [aquí](before-starting#states) para más información.
+2. En aproximadamente 1 minuto, la unidad se iniciará, y el botón luminoso comenzará a parpadear regularmente. Si la luz indicadora muestra un estado diferente, consulta [aquí](before-starting#estados) para más información.
 
 ## Entrenamiento
 
