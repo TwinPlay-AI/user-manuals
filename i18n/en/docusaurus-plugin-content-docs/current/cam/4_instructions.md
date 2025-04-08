@@ -1,5 +1,7 @@
 ---
 id: instructions
+title: Instructions
+description: Positioning, powering on, training, and ending the session
 ---
 
 # Usage Instructions

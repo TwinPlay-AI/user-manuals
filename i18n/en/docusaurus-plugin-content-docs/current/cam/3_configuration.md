@@ -1,5 +1,7 @@
 ---
 id: configuration
+title: Configuration
+description: Configure the camera to connect to your Wi-Fi network
 ---
 
 # Configuration

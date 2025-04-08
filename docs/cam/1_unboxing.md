@@ -1,5 +1,7 @@
 ---
 id: unboxing
+title: Unboxing
+description: Scopri cosa contiene la confezione e come montare la telecamera.
 ---
 
 # Unboxing

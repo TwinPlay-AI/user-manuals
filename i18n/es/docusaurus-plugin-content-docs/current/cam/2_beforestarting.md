@@ -1,5 +1,7 @@
 ---
 id: before-starting
+title: Antes de empezar
+description: Aprende los estados de la luz indicadora y los comandos del dispositivo.
 ---
 
 # Antes de empezar

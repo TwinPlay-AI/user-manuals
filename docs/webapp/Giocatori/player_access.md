@@ -1,5 +1,7 @@
 ---
 id: webapp_players
+title: Accesso Giocatore
+description: Accedi alla dashboard personale e visualizza le tue statistiche e video.
 ---
 
 # Accesso Giocatori

@@ -1,5 +1,7 @@
 ---
 id: team_access
+title: Accesso Team
+description: Guida all’accesso alla piattaforma per allenatori e staff tecnico.
 ---
 
 # Accesso Team

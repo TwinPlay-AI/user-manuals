@@ -1,5 +1,7 @@
 ---
 id: unboxing
+title: Unboxing
+description: Discover what is inside the box and how to assemble the camera.
 ---
 
 # Unboxing

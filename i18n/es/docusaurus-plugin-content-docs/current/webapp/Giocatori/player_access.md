@@ -1,5 +1,7 @@
 ---
 id: webapp_players
+title: Acceso Jugador
+description: Accede a tu panel personal y visualiza estadísticas y videos.
 ---
 
 # Acceso de Jugadores

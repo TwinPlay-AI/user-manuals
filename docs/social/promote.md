@@ -1,6 +1,7 @@
 ---
 id: promote
 title: Promuovi TwinPlay sui Social! 🚀
+description: Risorse e suggerimenti per promuovere TwinPlay sui social.
 ---
 
 # Aiutaci a far conoscere TwinPlay! 📢

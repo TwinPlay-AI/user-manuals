@@ -1,5 +1,7 @@
 ---
 id: instructions
+title: Instrucciones de uso
+description: Guía paso a paso para grabar correctamente una sesión de entrenamiento.
 ---
 
 # Instrucciones de uso

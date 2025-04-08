@@ -1,5 +1,7 @@
 ---
 id: team_stats
+title: Estadísticas Equipo
+description: Consulta estadísticas y videos de los entrenamientos de tu equipo.
 ---
 
 # 📊 Panel de Control

@@ -1,5 +1,7 @@
 ---
 id: problems
+title: Troubleshooting
+description: Common issues and solutions
 ---
 
 # Troubleshooting

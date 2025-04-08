@@ -1,5 +1,7 @@
 ---
 id: webapp-player
+title: Estadísticas Jugador
+description: Analiza tu rendimiento con datos avanzados y videos dedicados.
 ---
 
 # 📊 Panel de Control

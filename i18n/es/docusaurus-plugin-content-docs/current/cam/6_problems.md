@@ -1,5 +1,7 @@
 ---
 id: problems
+title: Resolución de problemas
+description: Soluciona los errores más comunes en el uso de la cámara.
 ---
 
 # Solución de problemas

@@ -1,5 +1,7 @@
 ---
 id: unboxing
+title: Desempaquetado
+description: Descubre qué contiene la caja y cómo montar la cámara correctamente.
 ---
 
 # Desempaquetado

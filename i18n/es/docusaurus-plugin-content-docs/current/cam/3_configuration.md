@@ -1,5 +1,7 @@
 ---
 id: configuration
+title: Configuración
+description: Conecta la cámara a una red WiFi mediante QR o acceso manual.
 ---
 
 # Configuración

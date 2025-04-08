@@ -1,5 +1,7 @@
 ---
 id: before-starting
+title: Prima di iniziare
+description: Tutto quello che devi sapere prima di accendere la telecamera.
 ---
 
 # Prima di iniziare

@@ -1,5 +1,7 @@
 ---
 id: webapp-player
+title: Statistiche Giocatore
+description: Analizza la tua performance con dati avanzati e video dedicati.
 ---
 
 
