@@ -1,5 +1,7 @@
 ---
 id: problems
+title: Risoluzione problemi
+description: Come comportarsi in caso di errori.
 ---
 
 # Risoluzioni problemi

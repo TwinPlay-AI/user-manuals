@@ -1,5 +1,7 @@
 ---
 id: configuration
+title: Configurazione
+description: Guida per connettere la telecamera TwinPlay a una rete Wi-Fi.
 ---
 
 # Configurazione

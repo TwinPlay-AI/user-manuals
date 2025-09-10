@@ -1,5 +1,7 @@
 ---
 id: team_stats
+title: Statistiche Team
+description: Visualizza statistiche e video degli allenamenti della tua squadra.
 ---
 
 # 📊 Dashboard

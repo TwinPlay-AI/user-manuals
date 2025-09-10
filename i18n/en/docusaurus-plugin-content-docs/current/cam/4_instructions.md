@@ -1,5 +1,7 @@
 ---
 id: instructions
+title: Instructions
+description: Positioning, powering on, training, and ending the session
 ---
 
 # Usage Instructions
@@ -13,8 +15,9 @@ id: instructions
 
 ## Powering On
 
-1. Connect the power adapter to an electrical outlet. The unit will automatically turn on. If the unit was already plugged in but had been turned off using the button, you can turn it back on using the button.
-2. In about 1 minute, the unit will boot up, and the light button will start blinking regularly. If the indicator light shows a different state, check [here](before-starting#states) for more information.
+1. Connect the power adapter to an electrical outlet. The unit will automatically turn on. If the unit was already plugged in but had been turned off using the button, you can turn it back on using the button.  
+2. In about 1 minute, the unit will boot up, and the light button will start blinking regularly.  
+If the indicator light shows a different state, check [**Indicator States**](before-starting#indicator-light-states) for more information.
 
 ## Training
 
@@ -27,5 +30,15 @@ id: instructions
 2. Once the indicator light has turned off, you can turn off the WiFi network and unplug the power.
 
 :::tip[Note]
-For consecutive training sessions with different players, it is recommended to separate sessions by briefly pressing the button. In this case, the light will turn off for a few seconds and then start blinking again. This ensures the previous session is completed and a new session starts.
+For consecutive training sessions with different players, it is recommended to separate sessions by briefly pressing the button.  
+In this case, the light will turn off for a few seconds and then start blinking again.  
+This ensures the previous session is closed, and a new one starts correctly.
 :::
+
+---
+
+# 🎥 Video Guide
+
+Prefer to watch a video? Here's a quick guide to using the camera:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09SuO-30Nlo?si=HTF-2DR2wsDSOSIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

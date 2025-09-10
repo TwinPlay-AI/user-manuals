@@ -1,5 +1,7 @@
 ---
 id: before-starting
+title: Before Starting
+description: What to know before using the camera
 ---
 
 # Before Starting

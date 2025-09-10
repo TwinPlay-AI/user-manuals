@@ -1,10 +1,12 @@
 ---
 id: problems
+title: Troubleshooting
+description: Common issues and solutions
 ---
 
 # Troubleshooting
 
-## The indicator light blinks with a double flash after powering on
+## ![lampeggio_doppio](/img/blink2_400ms_50_1000ms.gif) The indicator light blinks with a double flash after powering on
 
 The unit has not detected any known networks.
 
@@ -16,7 +18,7 @@ The unit has not detected any known networks.
 | The connected network requires additional authentication                                                   | The camera does not support this type of network. Change the network or disable additional authentication.                                   |
 | The hotspot is set to an unsupported frequency (5 GHz) (On iPhones, check "Optimize Compatibility")        | Change the hotspot frequency to 2.4 GHz and restart the unit.                                                                                |   
 
-## The indicator light blinks rapidly
+## ![lampeggio_rapido](/img/blink1_200ms_50_0ms.gif) The indicator light blinks rapidly
 
 | Issue | Solutions |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

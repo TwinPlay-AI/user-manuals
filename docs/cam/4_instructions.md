@@ -1,5 +1,8 @@
 ---
 id: instructions
+title: Istruzioni di utilizzo
+description: Posizionamento, accensione e funzionamento della telecamera.
+
 ---
 
 # Istruzioni utilizzo
