@@ -22,4 +22,5 @@ The unit has not detected any known networks.
 
 | Issue | Solutions |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Recording is paused | Press the button briefly to resume recording |
 | The unit does not detect the camera | Verify that the cable is connected to one of the two USB ports on the unit.<br/>Check that the USB cable is connected to the camera.<br/>Restart the unit. |

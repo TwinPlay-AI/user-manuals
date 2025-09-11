@@ -6,6 +6,17 @@ description: Positioning, powering on, training, and ending the session
 
 # Usage Instructions
 
+:::warning[🆕 New Features Since September 2025]
+**TwinPlay cameras now support important new functionalities:**
+
+- **📱 Offline recording**: The camera can record even without internet connection
+- **⚠️ Memory management**: Be careful not to exceed **~15 hours** of recording in offline mode to avoid saturating device memory
+- **📋 Complete mobile app configuration**: All settings now manageable from the app
+- **👁️ Live view**: View in real-time what the camera is focusing on directly from the mobile app
+
+[Learn more about the mobile app →](./mobile-app)
+:::
+
 ## Positioning
 
 1. Place the tripod approximately at mid-court, outside the sideline.
@@ -18,6 +29,31 @@ description: Positioning, powering on, training, and ending the session
 1. Connect the power adapter to an electrical outlet. The unit will automatically turn on. If the unit was already plugged in but had been turned off using the button, you can turn it back on using the button.  
 2. In about 1 minute, the unit will boot up, and the light button will start blinking regularly.  
 If the indicator light shows a different state, check [**Indicator States**](before-starting#indicator-light-states) for more information.
+
+:::tip[Mobile App]
+Download the [**TwinPlay mobile app**](./mobile-app) to monitor camera status, see live stream, and manage WiFi networks even during recording.
+:::
+
+## Recording Modes
+
+### 🌐 Online recording (standard mode)
+- Camera automatically uploads videos to the cloud during recording
+- Requires stable WiFi connection
+- Unlimited cloud storage
+
+### 📱 Offline recording (since September 2025)
+- Camera can record even **without internet connection**
+- Videos are saved to the device's internal memory
+- **⚠️ Important limit**: Approximately **15 hours** of recording maximum before saturating memory
+- Videos will be automatically uploaded to cloud when connection is restored
+
+:::caution[Memory management in offline mode]
+**Always monitor available space when recording offline:**
+- Use the [mobile app](./mobile-app) to check used space
+- Very long sessions might fill the device memory
+- Once the limit is reached, the camera will stop recording
+- Connect to WiFi regularly to free up space by uploading videos to cloud
+:::
 
 ## Training
 

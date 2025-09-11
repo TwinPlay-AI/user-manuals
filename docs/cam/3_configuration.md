@@ -32,10 +32,44 @@ La procedura dovrà essere ripetuta nel caso in cui:
 - Hotspot da telefono `Android`: accedere alle impostazioni dell’hotspot e impostare la frequenza a `2.4 GHz`
 - Hotspot da `iPhone`: accedere alle impostazioni dell’hotspot e spuntare l'opzione `ottimizza compatibilità`
 
-## Procedura di associazione
+## Configurazione WiFi con App Mobile
+
+:::tip[Metodo raccomandato]
+L'app mobile TwinPlay permette di configurare le reti WiFi in qualsiasi momento, anche durante la registrazione, senza dover interrompere gli allenamenti.
+:::
+
+### Requisiti
+- Smartphone con Bluetooth abilitato  
+- App TwinPlay installata
+- Telecamera accesa e funzionante
+
+### Procedura
+1. **Scarica l'app TwinPlay** dal tuo store (App Store/Google Play)
+2. **Abilita Bluetooth** sul tuo smartphone
+3. **Apri l'app** e vai nella sezione "WiFi Configuration"
+4. **Connettiti alla telecamera** via Bluetooth (la telecamera apparirà nella lista dei dispositivi disponibili)
+5. **Scansiona le reti WiFi** disponibili attraverso l'app
+6. **Seleziona la rete** desiderata e inserisci la password
+7. **Salva la configurazione** - la telecamera si connetterà automaticamente
+
+### Funzionalità dell'app
+- ✅ **Configurazione durante registrazione**: Non è necessario interrompere gli allenamenti
+- ✅ **Gestione multiple reti**: Salva e gestisci facilmente più reti WiFi
+- ✅ **Monitoraggio stato rete**: Visualizza rete attuale, potenza segnale e connettività internet
+- ✅ **Test velocità integrato**: Verifica che la connessione sia adeguata per il caricamento video
+- ✅ **Visione live**: Accesso in tempo reale alla telecamera
+- ✅ **Controllo remoto**: Monitora sessioni e stato telecamera
+
+
+## Configurazione WiFi con QR code e senza app
+:::warning[Questo metodo è deprecato]
+Dal 2025 è disponibile la **nuova app mobile TwinPlay** che semplifica notevolmente la configurazione.
+L'app può configurare le reti WiFi anche durante la registrazione, eliminando la necessità di interrompere gli allenamenti.
+Vedi la [**sezione app mobile**](#configurazione-wifi-con-app-mobile) per il metodo moderno.
+:::
 
 1. Accendi la rete wifi a cui vuoi associare la telecamera
-2. Accendi l'unità di elaborazione. E' importante che questa venga accesa **DOPO** aver acceso la rete wifi.
+2. **Tieni premuto il pulsante durante l'accensione** dell'unità di elaborazione per attivare la modalità di associazione
 3. Attendi che la spia faccia faccia un doppio lampeggio prima di proseguire.
    (Vedi [**Comandi**](before-starting#comandi) e [**Stati**](before-starting#stati) per maggiori informazioni)
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
@@ -73,4 +107,5 @@ Password:   TwinPlayCamera
 5. Seleziona la rete WIFI a cui vuoi collegare la telecamera, inserisci la sua password e schiaccia sul tasto “Connetti”.
 6. Attendi 1 minuto.
 
-Se l’associazione è andata a buon fine, la spia inizierà a **lampeggiare regolarmente**, iniziando direttamente a riprendere l’allenamento. Se la spia ritorna a lampeggiare con 2 impulsi ravvicinati, l’associazione non è andata a buon fine: verifica che la connessione abbia accesso a internet e che la password inserita sia corretta.
+Se l'associazione è andata a buon fine, la spia inizierà a **lampeggiare regolarmente**, iniziando direttamente a riprendere l'allenamento. Se la spia ritorna a lampeggiare con 2 impulsi ravvicinati, l'associazione non è andata a buon fine: verifica che la connessione abbia accesso a internet e che la password inserita sia corretta.
+
