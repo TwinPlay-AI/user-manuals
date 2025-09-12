@@ -28,7 +28,7 @@ La procédure devra être répétée dans le cas où :
 - En cas d'hotspot de téléphone il faut avoir un second dispositif pour effectuer la procédure d'association
 :::
 
-### Configuration hotspot de téléphone
+### Configuration hotspot de téléphone {#configuration-hotspot-telephone}
 - Hotspot de téléphone `Android` : accéder aux paramètres de l'hotspot et régler la fréquence à `2.4 GHz`
 - Hotspot d'`iPhone` : accéder aux paramètres de l'hotspot et cocher l'option `optimiser compatibilité`
 
