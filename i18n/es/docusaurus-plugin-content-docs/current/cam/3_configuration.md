@@ -32,6 +32,34 @@ El procedimiento debe repetirse si:
 - Punto de acceso en `Android`: Ve a la configuración del punto de acceso y establece la frecuencia en `2.4 GHz`.
 - Punto de acceso en `iPhone`: Ve a la configuración del punto de acceso y habilita la opción `Optimizar compatibilidad`.
 
+## Configuración WiFi con App Móvil
+
+:::tip[Método recomendado]
+La app móvil TwinPlay permite configurar las redes WiFi en cualquier momento, incluso durante la grabación, sin necesidad de interrumpir los entrenamientos.
+:::
+
+### Requisitos
+- Smartphone con Bluetooth habilitado  
+- App TwinPlay instalada
+- Cámara encendida y funcionando
+
+### Procedimiento
+1. **Descarga la app TwinPlay** desde tu tienda (App Store/Google Play)
+2. **Habilita Bluetooth** en tu smartphone
+3. **Abre la app** y ve a la sección "WiFi Configuration"
+4. **Conéctate a la cámara** vía Bluetooth (la cámara aparecerá en la lista de dispositivos disponibles)
+5. **Selecciona la red WiFi** deseada de la lista de redes disponibles
+6. **Introduce la contraseña** de la red WiFi
+7. **Confirma la configuración** - la cámara se conectará automáticamente
+
+:::info[Ventajas de la app móvil]
+- ✅ **Configuración durante grabación**: Cambia red WiFi sin parar la grabación
+- ✅ **Gestión múltiples redes**: Guarda y gestiona varias redes WiFi 
+- ✅ **Monitoreo en tiempo real**: Ve el estado de conexión y potencia de señal
+- ✅ **Sin interrupciones**: No requiere poner la cámara en modo asociación
+- ✅ **Más fácil**: Sin códigos QR ni navegador web
+:::
+
 ## Procedimiento de asociación
 
 1. Enciende la red WiFi a la que deseas asociar la cámara.

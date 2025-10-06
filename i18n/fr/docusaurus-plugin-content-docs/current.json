@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Suivant",
+    "description": "The label for version current"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera": {
+    "message": "📹 Utilisation Caméra",
+    "description": "The label for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.📹 Utilizzo Camera.link.generated-index.title": {
+    "message": "Utilisation de la caméra",
+    "description": "The generated-index page title for category 📹 Utilizzo Camera in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp": {
+    "message": "💻 Application Web",
+    "description": "The label for category 💻 WebApp in sidebar menu"
+  },
+  "sidebar.menu.category.💻 WebApp.link.generated-index.title": {
+    "message": "Application Web",
+    "description": "The generated-index page title for category 💻 WebApp in sidebar menu"
+  },
+  "sidebar.menu.category.Giocatori": {
+    "message": "Joueurs",
+    "description": "The label for category Giocatori in sidebar menu"
+  },
+  "sidebar.menu.category.Team": {
+    "message": "Équipe",
+    "description": "The label for category Team in sidebar menu"
+  },
+  "sidebar.menu.category.📣 Social": {
+    "message": "📣 Social",
+    "description": "The label for category 📣 Social in sidebar menu"
+  },
+  "sidebar.menu.category.📣 Social.link.generated-index.title": {
+    "message": "Social",
+    "description": "The generated-index page title for category 📣 Social in sidebar menu"
+  }
+}

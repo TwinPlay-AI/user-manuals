@@ -22,4 +22,5 @@ La unidad no ha detectado ninguna red conocida.
 
 | Problema | Soluciones |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| La grabación está en pausa | Presiona brevemente el botón para reanudar la grabación |
 | La unidad no detecta la cámara        | Verifica que el cable esté conectado a uno de los dos puertos USB de la unidad.<br/>Comprueba que el cable USB esté conectado a la cámara.<br/>Reinicia la unidad. |
