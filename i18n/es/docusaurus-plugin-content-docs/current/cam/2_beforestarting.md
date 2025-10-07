@@ -12,9 +12,11 @@ Una vez configurado:
 
 :::info[Importante - Actualización Septiembre 2025]
 El comportamiento de la cámara ha cambiado:
+
 - **El modo de emparejamiento ya no se activa automáticamente** cuando no detecta redes, pero existe la posibilidad de grabar offline
 - **Se recomienda usar la app móvil** para la configuración de redes WiFi, en cualquier modalidad de la cámara, incluso durante la grabación
 - **Para activar el modo de emparejamiento anterior** (doble parpadeo) es necesario mantener presionado el botón durante el encendido
+
 :::
 
 ## Estados de la luz indicadora {#estados}

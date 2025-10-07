@@ -27,6 +27,7 @@ The TwinPlay mobile app is now the **primary method** for managing the camera. W
 ## Initial Setup
 
 ### First Connection
+
 1. Open the TwinPlay app
 2. The app will automatically search for nearby TwinPlay devices
 3. Select your camera from the list
@@ -39,6 +40,7 @@ Once paired, the app will automatically reconnect to the camera when both are po
 ## Main Features
 
 ### 📡 WiFi Configuration
+
 - **Scan networks**: View all WiFi networks available in the camera's area
 - **Connect new networks**: Easily add new WiFi networks with password
 - **Manage saved networks**: View, modify, or delete previously configured networks
@@ -46,15 +48,18 @@ Once paired, the app will automatically reconnect to the camera when both are po
 - **Configuration during recording**: Change network even while the camera is recording
 
 ### 📹 Live View (🆕 September 2025)
+
 - **Real-time streaming**: View what the camera is focusing on live
 - **Frame control**: Verify positioning and angle before starting to record
 - **Always works**: Available both with internet connection and in offline mode (via Bluetooth)
 
 ### 🚀 Speed Test
+
 - **Complete test**: Measures ping, download, and upload of internet connection
 - **Quality evaluation**: Verify if the connection is adequate for video upload
 
 ### 📊 Session Monitoring (🆕 Enhanced Features)
+
 - **Active sessions**: View current recording session
 - **Storage statistics**: Monitor used space and recorded files
 - **⚠️ Offline memory control**: **Essential for offline recording** - view remaining space (approximately 15 hours maximum)
@@ -63,6 +68,7 @@ Once paired, the app will automatically reconnect to the camera when both are po
 - **Recording mode**: Indicates whether you're recording online or offline
 
 ### ⚙️ Settings and Status
+
 - **Device info**: Camera name, IP address, firmware version
 - **Bluetooth status**: BLE connection monitoring
 - **Advanced configurations**: All camera settings now manageable from app
@@ -91,8 +97,10 @@ Since September 2025, the camera can record even **without internet connection**
 
 :::tip[Offline Best Practices]
 **For very long sessions in offline mode:**
+
 1. Check space before starting
 2. Take breaks every 8-10 hours to connect to WiFi and upload
 3. Use the app to verify videos have been uploaded correctly
 4. Only after upload resume offline recording
+
 :::

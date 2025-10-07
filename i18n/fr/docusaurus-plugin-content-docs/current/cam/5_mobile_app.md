@@ -27,6 +27,7 @@ L'app mobile TwinPlay est maintenant la **méthode principale** pour gérer la c
 ## Configuration initiale
 
 ### Première connexion
+
 1. Ouvrez l'app TwinPlay
 2. L'app cherchera automatiquement les dispositifs TwinPlay à proximité
 3. Sélectionnez votre caméra dans la liste
@@ -39,6 +40,7 @@ Une fois appariée, l'app se reconnectera automatiquement à la caméra quand le
 ## Fonctionnalités principales
 
 ### 📡 Configuration WiFi
+
 - **Scan réseaux** : Visualisez tous les réseaux WiFi disponibles dans la zone de la caméra
 - **Connecter nouveaux réseaux** : Ajoutez facilement de nouveaux réseaux WiFi avec mot de passe
 - **Gérer réseaux sauvegardés** : Visualisez, modifiez ou éliminez les réseaux précédemment configurés
@@ -46,15 +48,18 @@ Une fois appariée, l'app se reconnectera automatiquement à la caméra quand le
 - **Configuration pendant enregistrement** : Changez de réseau même pendant que la caméra enregistre
 
 ### 📹 Vision Live (🆕 Septembre 2025)
+
 - **Streaming en temps réel** : Visualisez ce que filme la caméra en direct
 - **Contrôle cadrage** : Vérifiez le positionnement et l'angle avant de commencer à enregistrer
 - **Fonctionne toujours** : Disponible aussi bien avec connexion internet qu'en mode hors ligne (via Bluetooth)
 
 ### 🚀 Test Vitesse
+
 - **Test complet** : Mesure ping, téléchargement et upload de la connexion internet
 - **Évaluation qualité** : Vérifiez si la connexion est adéquate pour le chargement vidéo
 
 ### 📊 Monitoring Sessions (🆕 Fonctionnalités renforcées)
+
 - **Sessions actives** : Visualisez la session d'enregistrement actuelle
 - **Statistiques stockage** : Surveillez l'espace utilisé et les fichiers enregistrés
 - **⚠️ Contrôle mémoire hors ligne** : **Fondamental pour enregistrement hors ligne** - visualisez l'espace restant (environ 15 heures maximales)
@@ -63,6 +68,7 @@ Une fois appariée, l'app se reconnectera automatiquement à la caméra quand le
 - **Mode enregistrement** : Indique si vous enregistrez en ligne ou hors ligne
 
 ### ⚙️ Paramètres et État
+
 - **Info dispositif** : Nom caméra, adresse IP, version firmware
 - **État Bluetooth** : Monitoring connexion BLE
 - **Configurations avancées** : Tous les paramètres de la caméra maintenant gérables depuis l'app
@@ -91,8 +97,10 @@ Depuis septembre 2025, la caméra peut enregistrer même **sans connexion intern
 
 :::tip[Meilleures Pratiques Hors ligne]
 **Pour sessions très longues en mode hors ligne :**
+
 1. Contrôlez l'espace avant de commencer
 2. Faites des pauses toutes les 8-10 heures pour connecter au WiFi et charger
 3. Utilisez l'app pour vérifier que les vidéos aient été chargées correctement
 4. Seulement après le chargement reprenez l'enregistrement hors ligne
+
 :::

@@ -7,15 +7,18 @@ description: Guida all’accesso alla piattaforma per allenatori e staff tecnico
 # Accesso Team
 
 ## 🔹 Introduzione
+
 TwinPlay offre una piattaforma avanzata per monitorare le prestazioni dei tuoi giocatori e migliorare l'efficacia degli allenamenti attraverso statistiche dettagliate e video analisi. Ecco tutto ciò che puoi fare! 🚀
 
 ---
 
 ## 📧 Registrazione
+
 Una volta che abbiamo inserito la mail societaria, riceverai un invito per registrarti alla piattaforma TwinPlay.  
 Clicca sul link ricevuto e segui la procedura di registrazione.
 
-:::danger Attenzione 
+:::danger Attenzione
+
 - Ricordati la password scelta per l'accesso. Se la dimentichi, puoi sempre resettarla da [qui](https://app.twinplay.ai/accounts/password_reset/).  
 - Non hai ricevuto l'invito? Controlla nello **spam** oppure scrivici per verificare l'inserimento della mail.
 :::

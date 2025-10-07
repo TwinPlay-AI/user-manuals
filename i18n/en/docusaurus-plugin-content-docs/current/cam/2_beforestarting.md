@@ -12,9 +12,11 @@ Once configured:
 
 :::info[Important - September 2025 Update]
 The camera behavior has changed:
+
 - **Pairing mode no longer activates automatically** when no networks are detected, but there's now the possibility to record offline
 - **We recommend using the mobile app** for WiFi network configuration, in any camera mode, even during recording
 - **To activate the old pairing mode** (double blink) you need to hold the button during power-on
+
 :::
 
 ## Indicator Light States

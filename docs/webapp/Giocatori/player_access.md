@@ -15,7 +15,8 @@ Di seguito troverai tutte le informazioni di cui hai bisogno per **registrarti**
 2. Riceverai un invito per registrarti alla piattaforma TwinPlay.
 3. Clicca sul link ricevuto e segui la procedura di registrazione.
 
-:::danger Attenzione 
+:::danger Attenzione
+
 - Ricordati la password scelta per l'accesso, se non la ricordi più puoi sempre resettarla da [qui](https://app.twinplay.ai/accounts/password_reset/).
 - Non hai ricevuto l'invito? Controlla nello **spam** oppure scrivici per verificare l'inserimento della mail.
 

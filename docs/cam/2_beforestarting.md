@@ -5,17 +5,19 @@ description: Tutto quello che devi sapere prima di accendere la telecamera.
 ---
 
 # Prima di iniziare
+
 L'unità ha un singolo pulsante con spia integrata. La spia indica lo stato dell'unità e il pulsante permette di interagire con essa.
 Di seguito sono riportati i comandi e gli stati della spia.
 Una volta configurata
 
 :::info[Importante - Aggiornamento Settembre 2025]
 Il comportamento della telecamera è cambiato:
+
 - **La modalità associazione non si attiva più automaticamente** quando non rileva reti ma c'è la possibilità di registrare offline
 - **Si raccomanda di usare l'app mobile** per la configurazione delle reti WiFi, in qualsiasi modalità della telecamera, anche durante la registrazione
 - **Per attivare la vecchia modalità associazione** (lampeggio doppio) è necessario tenere premuto il pulsante durante l'accensione
-:::
 
+:::
 
 ## Stati
 
@@ -28,7 +30,6 @@ La spia presente sull'unità indica lo stato in cui è il dispositivo:
 | ![lampeggio_medio](/img/blink1_1000ms_50_0ms.gif)         | Registrazione e upload                                    | Lampeggio regolare | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
 | ![spia_accesa](/img/blink1_1000ms_100_0ms.gif)            | Upload finale                                             | Accesa             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
 | ![lampeggio_doppio](/img/blink2_400ms_50_1000ms.gif)      | Modalità associazione rete (solo se attivata manualmente) | Lampeggio doppio   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
-
 
 ## Comandi
 

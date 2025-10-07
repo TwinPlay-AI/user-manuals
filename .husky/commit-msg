@@ -1,0 +1,32 @@
+#!/bin/sh
+# Read commit message
+commit_msg=$(cat "$1")
+
+# Check if commit message follows conventional format
+if ! echo "$commit_msg" | grep -qE "^(feat|fix|docs|style|refactor|test|chore|perf|ci|build|revert)(\(.+\))?: .+"; then
+    echo "❌ Invalid commit message format!"
+    echo ""
+    echo "Message must follow the format: type(scope): description"
+    echo ""
+    echo "Valid types:"
+    echo "  feat:     new feature"
+    echo "  fix:      bug fix"
+    echo "  docs:     documentation"
+    echo "  style:    formatting, missing semicolons, etc."
+    echo "  refactor: code refactoring"
+    echo "  test:     adding tests"
+    echo "  chore:    build tasks, configuration updates, etc."
+    echo "  perf:     performance improvements"
+    echo "  ci:       CI/CD changes"
+    echo "  build:    build system changes"
+    echo "  revert:   reverting previous commits"
+    echo ""
+    echo "Valid examples:"
+    echo "  feat(app): add OAuth login"
+    echo "  fix(api): fix 500 error on users endpoint"
+    echo "  docs: update README with installation instructions"
+    echo ""
+    exit 1
+fi
+
+echo "✅ Valid commit message!"

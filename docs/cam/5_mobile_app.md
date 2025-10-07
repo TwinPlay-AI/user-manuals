@@ -27,6 +27,7 @@ L'app mobile TwinPlay è ora il **metodo principale** per gestire la telecamera.
 ## Configurazione iniziale
 
 ### Prima connessione
+
 1. Apri l'app TwinPlay
 2. L'app cercherà automaticamente dispositivi TwinPlay nelle vicinanze
 3. Seleziona la tua telecamera dalla lista
@@ -39,6 +40,7 @@ Una volta accoppiata, l'app si riconnetterà automaticamente alla telecamera qua
 ## Funzionalità principali
 
 ### 📡 Configurazione WiFi
+
 - **Scansiona reti**: Visualizza tutte le reti WiFi disponibili nell'area della telecamera
 - **Connetti nuove reti**: Aggiungi facilmente nuove reti WiFi con password
 - **Gestisci reti salvate**: Visualizza, modifica o elimina reti precedentemente configurate
@@ -46,15 +48,18 @@ Una volta accoppiata, l'app si riconnetterà automaticamente alla telecamera qua
 - **Configurazione durante registrazione**: Cambia rete anche mentre la telecamera sta registrando
 
 ### 📹 Visione Live (🆕 Settembre 2025)
+
 - **Streaming in tempo reale**: Visualizza quello che inquadra la telecamera in diretta
 - **Controllo inquadratura**: Verifica il posizionamento e l'angolazione prima di iniziare a registrare
 - **Funziona sempre**: Disponibile sia con connessione internet che in modalità offline (tramite Bluetooth)
 
 ### 🚀 Test Velocità
+
 - **Test completo**: Misura ping, download e upload della connessione internet
-- **Valutazione qualità**: Verifica se la connessione è adeguata per il caricamento video 
+- **Valutazione qualità**: Verifica se la connessione è adeguata per il caricamento video
 
 ### 📊 Monitoraggio Sessioni (🆕 Funzionalità potenziate)
+
 - **Sessioni attive**: Visualizza la sessione di registrazione corrente
 - **Statistiche storage**: Monitora spazio utilizzato e file registrati
 - **⚠️ Controllo memoria offline**: **Fondamentale per registrazione offline** - visualizza spazio rimanente (circa 15 ore massime)
@@ -63,9 +68,9 @@ Una volta accoppiata, l'app si riconnetterà automaticamente alla telecamera qua
 - **Modalità registrazione**: Indica se stai registrando online o offline
 
 ### ⚙️ Impostazioni e Stato
+
 - **Info dispositivo**: Nome telecamera, indirizzo IP, versione firmware
 - **Stato Bluetooth**: Monitoraggio connessione BLE
 - **Configurazioni avanzate**: Tutte le impostazioni della telecamera ora gestibili da app
 - **Collegamenti esterni**: Accesso diretto a documentazione e portale statistiche
 - **Diagnostica**: Strumenti per risolvere problemi di connessione
-

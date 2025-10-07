@@ -9,6 +9,7 @@ description: Visualizza statistiche e video degli allenamenti della tua squadra.
 ![webapp-coach](/img/webapp-coach.png)
 
 Dalla tua dashboard puoi vedere:
+
 - Le **statistiche di tutti i giocatori** e di **tutti gli allenamenti**
 - Dati specifici **allenamento per allenamento** e per **singolo giocatore**
 - Tutti i **video degli allenamenti**, inclusi:
@@ -21,6 +22,7 @@ Dalla tua dashboard puoi vedere:
 ## 📈 Statistiche
 
 ### 🏀 **Statistiche Individuali**
+
 - Percentuali di tiro
 - Numero di tiri tentati, realizzati e sbagliati
 - Heatmap delle zone di tiro 📍
@@ -28,6 +30,7 @@ Dalla tua dashboard puoi vedere:
 - Analisi temporale delle prestazioni ⏳
 
 ### 📢 **Statistiche di Squadra**
+
 - Classifiche interne tra i giocatori 🏆
 - Confronto tra allenamenti 📊
 - Andamento stagionale delle performance 📅
@@ -35,6 +38,7 @@ Dalla tua dashboard puoi vedere:
 ---
 
 ## 🚀 **Statistiche Avanzate**
+
 Grazie alla tecnologia TwinPlay, puoi accedere a **dati avanzati** per migliorare l'analisi delle performance:
 
 - ⏱ **Tempi di rilascio**: Quanto velocemente un giocatore tira dopo aver ricevuto la palla  
@@ -49,6 +53,7 @@ Questi dati permettono ai coach di **identificare e correggere difetti nel tiro*
 ## 📌 Roster
 
 Gestisci i giocatori registrati, aggiungine di nuovi e visualizza dati e statistiche personali:
+
 - **Seleziona un giocatore** per vedere dati e statistiche dettagliate
 - **Modifica le informazioni personali** e carica una foto profilo
 
@@ -57,6 +62,7 @@ Gestisci i giocatori registrati, aggiungine di nuovi e visualizza dati e statist
 ## 🎥 Allenamenti e Video
 
 Puoi rivedere e analizzare gli allenamenti nel dettaglio:
+
 - **Seleziona un allenamento** per vedere dati e video
 - **Guarda i video** dell'allenamento con gli highlights
 - **Scarica e condividi i video** sui social
@@ -69,11 +75,11 @@ Puoi rivedere e analizzare gli allenamenti nel dettaglio:
 ## ❓ Domande Frequenti (FAQ)
 
 ### ❔ Cosa faccio se non vedo i miei video?
-- I video non sono immediatamente disponibili, esiste un tempo di elaborazione prima del quale non saranno visibili.
-- Hai taggato la sessione con i giocatori che hanno partecipato all'allenamento? 
-- Alla fine dell'allenamento la telecamera si è spenta dopo aver caricato completamente il video? 
-- Contattaci se i video non sono disponibili dopo 24 ore.
 
+- I video non sono immediatamente disponibili, esiste un tempo di elaborazione prima del quale non saranno visibili.
+- Hai taggato la sessione con i giocatori che hanno partecipato all'allenamento?
+- Alla fine dell'allenamento la telecamera si è spenta dopo aver caricato completamente il video?
+- Contattaci se i video non sono disponibili dopo 24 ore.
 
 ---
 

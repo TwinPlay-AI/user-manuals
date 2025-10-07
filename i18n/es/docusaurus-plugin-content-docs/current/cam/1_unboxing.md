@@ -11,10 +11,11 @@ Tenga mucho cuidado al aflojar las llaves del trípode. Los resortes están prec
 :::
 
 ## Contenido de la caja
- - 1 Trípode con unidad de procesamiento y cable USB
- - 1 Cámara
- - 1 Adaptador de corriente
- - 1 Bolsa de transporte
+
+- 1 Trípode con unidad de procesamiento y cable USB
+- 1 Cámara
+- 1 Adaptador de corriente
+- 1 Bolsa de transporte
 
 ## Montaje
 

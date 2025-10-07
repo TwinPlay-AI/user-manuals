@@ -12,11 +12,12 @@ compresse e il tubo potrebbe estendersi molto velocemente: tenere con una mano l
 :::
 
 ## Contenuto della scatola
- - Cavalletto con unità di elaborazione e cavo USB
- - Telecamera
- - Alimentatore
- - Borsone per il trasporto
- - Istruzioni per la configurazione
+
+- Cavalletto con unità di elaborazione e cavo USB
+- Telecamera
+- Alimentatore
+- Borsone per il trasporto
+- Istruzioni per la configurazione
 
 ## Montaggio
 
@@ -26,5 +27,5 @@ compresse e il tubo potrebbe estendersi molto velocemente: tenere con una mano l
 4. Collegare il cavo di alimentazione all’unità. L'unità si accenderà automaticamente.
 
 :::tip[Nota]
-Quando non è in utilizzo, l’alimentatore e la telecamera possono essere riposti nella **tasca interna** del borsone. 
+Quando non è in utilizzo, l’alimentatore e la telecamera possono essere riposti nella **tasca interna** del borsone.
 :::
