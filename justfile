@@ -4,7 +4,7 @@ yarn *args:
 
 # Setup the project
 setup:
-    just yarn install
+    just yarn "install --frozen-lockfile"
 
 # Start development server
 dev:
@@ -12,5 +12,5 @@ dev:
 
 # Build the project
 build:
-    just yarn install
+    just setup
     just yarn build
