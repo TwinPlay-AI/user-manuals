@@ -7,6 +7,7 @@ id: team_stats
 ![webapp-coach](/img/webapp-coach.png)
 
 From your dashboard you can view:
+
 - **Statistics for all players** and **all training sessions**
 - Detailed data **per session** and **per player**
 - All **training videos**, including:
@@ -19,6 +20,7 @@ From your dashboard you can view:
 ## 📈 Statistics
 
 ### 🏀 **Individual Statistics**
+
 - Shooting percentages
 - Number of shots attempted, made, and missed
 - Shot zone heatmaps 📍
@@ -26,6 +28,7 @@ From your dashboard you can view:
 - Time-based performance analysis ⏳
 
 ### 📢 **Team Statistics**
+
 - Internal player rankings 🏆
 - Comparison between training sessions 📊
 - Seasonal performance trends 📅
@@ -48,6 +51,7 @@ These insights allow coaches to **identify and correct shooting flaws**, and hel
 ## 📌 Roster
 
 Manage registered players, add new ones, and view personal data and statistics:
+
 - **Select a player** to view detailed stats and data
 - **Edit personal information** and upload a profile photo
 
@@ -56,6 +60,7 @@ Manage registered players, add new ones, and view personal data and statistics:
 ## 🎥 Trainings and Videos
 
 Review and analyze each training session in detail:
+
 - **Select a training session** to view data and videos
 - **Watch session highlights and player videos**
 - **Download and share videos** on social media
@@ -68,6 +73,7 @@ Review and analyze each training session in detail:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### ❔ What if I can't see my videos?
+
 - Videos are not immediately available — processing time is required before they appear.
 - Did you tag the session with the players who participated?  
 - Did the camera complete the upload and turn off correctly at the end of the session?  

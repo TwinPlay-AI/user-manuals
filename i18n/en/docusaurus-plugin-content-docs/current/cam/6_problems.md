@@ -16,7 +16,7 @@ The unit has not detected any known networks.
 | The connected network has no internet access                                                               | Verify the network functionality and restart the unit.                                                                                       |
 | The modem/hotspot was turned on after the camera and was not detected in time                              | Restart the unit.                                                                                                                            |
 | The connected network requires additional authentication                                                   | The camera does not support this type of network. Change the network or disable additional authentication.                                   |
-| The hotspot is set to an unsupported frequency (5 GHz) (On iPhones, check "Optimize Compatibility")        | Change the hotspot frequency to 2.4 GHz and restart the unit.                                                                                |   
+| The hotspot is set to an unsupported frequency (5 GHz) (On iPhones, check "Optimize Compatibility")        | Change the hotspot frequency to 2.4 GHz and restart the unit.                                                                                |
 
 ## ![lampeggio_rapido](/img/blink1_200ms_50_0ms.gif) The indicator light blinks rapidly
 

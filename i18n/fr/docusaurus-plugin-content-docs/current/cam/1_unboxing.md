@@ -12,6 +12,7 @@ comprimés et le tube pourrait s'étendre très rapidement : tenez l'extrémité
 :::
 
 ## Contenu de la boîte
+
 - Trépied avec unité de traitement et câble USB
 - Caméra
 - Adaptateur d'alimentation

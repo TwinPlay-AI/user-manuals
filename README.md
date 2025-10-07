@@ -1,41 +1,36 @@
-# Website
+# TwinPlay User Manuals
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Development
 
-### Installation
+### With Dev Container (Recommended)
 
-```
-$ yarn
-```
+1. Requirements: `Docker >=24`
+2. Open the project in Visual Studio Code
+3. Install the Dev Containers extension
+4. Reopen in container when prompted
+5. Website automatically starts at [http://localhost:3000](http://localhost:3000)
 
-### Local Development
+### Without Dev Container
 
-```
-$ yarn start
-```
+1. **Requirements**
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+   | pkg    | version |
+   | ------ | ------- |
+   | Docker | `>=24`  |
+   | Node   | `>=22`  |
+   | Yarn   | `^1.22` |
 
-### Build
+2. **Setup the project:**
 
-```
-$ yarn build
-```
+   ```bash
+   just setup
+   ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+3. **Start development server:**
 
-### Deployment
+   ```bash
+   just dev
+   ```
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+4. **Open your browser:**
+   Navigate to [http://localhost:3000](http://localhost:3000)

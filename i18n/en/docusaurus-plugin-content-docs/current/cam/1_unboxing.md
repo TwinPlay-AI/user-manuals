@@ -11,11 +11,12 @@ Be very careful when loosening the tripod locks. The springs are pre-compressed,
 :::
 
 ## Box Contents
- - Tripod with processing unit and USB cable
- - Camera
- - Power adapter
- - Carrying bag
- - Setup instructions
+
+- Tripod with processing unit and USB cable
+- Camera
+- Power adapter
+- Carrying bag
+- Setup instructions
 
 ## Assembly
 

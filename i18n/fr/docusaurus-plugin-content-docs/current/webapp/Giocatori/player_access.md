@@ -15,7 +15,8 @@ Ci-dessous vous trouverez toutes les informations dont vous avez besoin pour **v
 2. Vous recevrez une invitation pour vous inscrire à la plateforme TwinPlay.
 3. Cliquez sur le lien reçu et suivez la procédure d'inscription.
 
-:::danger Attention 
+:::danger Attention
+
 - Souvenez-vous du mot de passe choisi pour l'accès, si vous ne vous en souvenez plus vous pouvez toujours le réinitialiser [ici](https://app.twinplay.ai/accounts/password_reset/).
 - Vous n'avez pas reçu l'invitation ? Vérifiez dans les **spams** ou écrivez-nous pour vérifier la saisie de l'email.
 

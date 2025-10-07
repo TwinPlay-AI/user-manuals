@@ -10,6 +10,7 @@ Estamos emocionados de ver nuestra tecnología en acción y queremos involucrar 
 Si utilizas TwinPlay en tus eventos, sesiones de entrenamiento o en tu contenido, ¡ayúdanos a compartirlo con el mundo!
 
 ## 📂 **Material gráfico y de video**
+
 Hemos creado una colección de recursos (logos, videos y más) que puedes usar para promocionar TwinPlay:
 
 👉 **[Descarga nuestros logos y videos desde Google Drive](https://drive.google.com/drive/folders/1ppG1t1VJBevf9wnFABH_75FO9ue9KoPR?usp=drive_link)**
@@ -22,6 +23,7 @@ Hemos creado una colección de recursos (logos, videos y más) que puedes usar p
 
 ¡Nos encanta ver cómo se utiliza TwinPlay en el mundo real!  
 Si publicas contenido donde lo estés usando:
+
 - 📲 **Etiquétanos en tus publicaciones e historias** en Instagram, Facebook y X
 - 🏀 Usa el hashtag oficial: **#TwinPlay**
 - 🎥 Comparte videos, experiencias y casos de uso reales

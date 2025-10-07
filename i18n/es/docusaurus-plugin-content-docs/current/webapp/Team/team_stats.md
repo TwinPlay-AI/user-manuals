@@ -9,6 +9,7 @@ description: Consulta estadísticas y videos de los entrenamientos de tu equipo.
 ![webapp-coach](/img/webapp-coach.png)
 
 Desde tu panel de control puedes ver:
+
 - **Estadísticas de todos los jugadores** y **todas las sesiones de entrenamiento**
 - Datos detallados **por sesión** y **por jugador**
 - Todos los **videos de entrenamiento**, incluyendo:
@@ -21,6 +22,7 @@ Desde tu panel de control puedes ver:
 ## 📈 Estadísticas
 
 ### 🏀 **Estadísticas Individuales**
+
 - Porcentajes de tiro
 - Número de tiros intentados, encestados y fallados
 - Mapas de calor de zonas de tiro 📍
@@ -28,6 +30,7 @@ Desde tu panel de control puedes ver:
 - Análisis de rendimiento basado en el tiempo ⏳
 
 ### 📢 **Estadísticas del Equipo**
+
 - Rankings internos de jugadores 🏆
 - Comparación entre sesiones de entrenamiento 📊
 - Tendencias de rendimiento por temporada 📅
@@ -50,6 +53,7 @@ Estos datos permiten a los entrenadores **identificar y corregir fallos en el ti
 ## 📌 Plantilla
 
 Gestiona a los jugadores registrados, añade nuevos y consulta datos personales y estadísticas:
+
 - **Selecciona un jugador** para ver estadísticas y datos detallados
 - **Edita información personal** y sube una foto de perfil
 
@@ -58,6 +62,7 @@ Gestiona a los jugadores registrados, añade nuevos y consulta datos personales 
 ## 🎥 Entrenamientos y Videos
 
 Revisa y analiza cada sesión de entrenamiento en detalle:
+
 - **Selecciona una sesión de entrenamiento** para ver datos y videos
 - **Mira los resúmenes de la sesión y los videos de los jugadores**
 - **Descarga y comparte videos** en redes sociales
@@ -70,6 +75,7 @@ Revisa y analiza cada sesión de entrenamiento en detalle:
 ## ❓ Preguntas Frecuentes (FAQ)
 
 ### ❔ ¿Qué hago si no puedo ver mis videos?
+
 - Los videos no están disponibles de inmediato — se requiere tiempo de procesamiento antes de que aparezcan.
 - ¿Etiquetaste la sesión con los jugadores que participaron?  
 - ¿La cámara completó la subida y se apagó correctamente al final de la sesión?  

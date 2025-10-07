@@ -10,6 +10,7 @@ description: Analysez votre performance avec des données avancées et des vidé
 ![webapp-player](/img/webapp-players.png)
 
 Depuis votre dashboard vous pouvez accéder à :
+
 - Les **statistiques personnelles** de tous les entraînements auxquels vous avez participé
 - Vos **vidéos individuelles**, incluant :
   - Highlights automatiques 🎥  
@@ -46,6 +47,7 @@ Ces données vous aident à comprendre où vous améliorer et à **surveiller vo
 ## 🎥 Entraînements et Vidéos
 
 Vous pouvez revoir chacun de vos entraînements en détail :
+
 - **Sélectionnez un entraînement** pour visualiser vos statistiques
 - **Regardez vos vidéos personnelles**
 - **Téléchargez et partagez vos meilleurs moments** sur les réseaux sociaux !

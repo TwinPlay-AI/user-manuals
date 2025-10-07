@@ -36,11 +36,13 @@ Descarga la [**app móvil TwinPlay**](./mobile-app) para monitorear el estado de
 ## Modos de grabación
 
 ### 🌐 Grabación online (modo estándar)
+
 - La cámara sube automáticamente los videos al cloud durante la grabación
 - Requiere conexión WiFi estable
 - Espacio ilimitado en el cloud
 
 ### 📱 Grabación offline (desde Septiembre 2025)
+
 - La cámara puede grabar incluso **sin conexión a internet**
 - Los videos se guardan en la memoria interna del dispositivo
 - **⚠️ Límite importante**: Aproximadamente **15 horas** de grabación máximas antes de saturar la memoria
@@ -48,10 +50,12 @@ Descarga la [**app móvil TwinPlay**](./mobile-app) para monitorear el estado de
 
 :::caution[Gestión de memoria en modo offline]
 **Monitorea siempre el espacio disponible cuando grabes offline:**
+
 - Usa la [app móvil](./mobile-app) para verificar el espacio utilizado
 - Las sesiones muy largas podrían llenar la memoria del dispositivo
 - Una vez alcanzado el límite, la cámara dejará de grabar
 - Conéctate a WiFi regularmente para liberar espacio subiendo los videos al cloud
+
 :::
 
 ## Entrenamiento
@@ -69,5 +73,6 @@ Para sesiones de entrenamiento consecutivas con diferentes jugadores, se recomie
 :::
 
 # Video guía
+
 ¿Prefieres ver el video? Aquí tienes una guía rápida sobre cómo usar la cámara:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09SuO-30Nlo?si=HTF-2DR2wsDSOSIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

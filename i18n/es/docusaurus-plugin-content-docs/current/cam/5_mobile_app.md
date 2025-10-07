@@ -27,6 +27,7 @@ La app móvil TwinPlay es ahora el **método principal** para gestionar la cáma
 ## Configuración inicial
 
 ### Primera conexión
+
 1. Abre la app TwinPlay
 2. La app buscará automáticamente dispositivos TwinPlay cercanos
 3. Selecciona tu cámara de la lista
@@ -39,6 +40,7 @@ Una vez emparejada, la app se reconectará automáticamente a la cámara cuando 
 ## Funcionalidades principales
 
 ### 📡 Configuración WiFi
+
 - **Escanear redes**: Visualiza todas las redes WiFi disponibles en el área de la cámara
 - **Conectar nuevas redes**: Agrega fácilmente nuevas redes WiFi con contraseña
 - **Gestionar redes guardadas**: Visualiza, modifica o elimina redes previamente configuradas
@@ -46,15 +48,18 @@ Una vez emparejada, la app se reconectará automáticamente a la cámara cuando 
 - **Configuración durante grabación**: Cambia red incluso mientras la cámara está grabando
 
 ### 📹 Visión en Vivo (🆕 Septiembre 2025)
+
 - **Streaming en tiempo real**: Visualiza lo que enfoca la cámara en directo
 - **Control de encuadre**: Verifica el posicionamiento y angulación antes de comenzar a grabar
 - **Funciona siempre**: Disponible tanto con conexión a internet como en modo offline (vía Bluetooth)
 
 ### 🚀 Test de Velocidad
+
 - **Test completo**: Mide ping, descarga y subida de la conexión a internet
 - **Evaluación de calidad**: Verifica si la conexión es adecuada para la subida de video
 
 ### 📊 Monitoreo de Sesiones (🆕 Funcionalidades mejoradas)
+
 - **Sesiones activas**: Visualiza la sesión de grabación actual
 - **Estadísticas de almacenamiento**: Monitorea espacio utilizado y archivos grabados
 - **⚠️ Control de memoria offline**: **Fundamental para grabación offline** - visualiza espacio restante (aproximadamente 15 horas máximo)
@@ -63,6 +68,7 @@ Una vez emparejada, la app se reconectará automáticamente a la cámara cuando 
 - **Modo de grabación**: Indica si estás grabando online u offline
 
 ### ⚙️ Configuraciones y Estado
+
 - **Info del dispositivo**: Nombre de la cámara, dirección IP, versión de firmware
 - **Estado Bluetooth**: Monitoreo de conexión BLE
 - **Configuraciones avanzadas**: Todas las configuraciones de la cámara ahora gestionables desde la app
@@ -91,8 +97,10 @@ Desde septiembre 2025, la cámara puede grabar incluso **sin conexión a interne
 
 :::tip[Mejores Prácticas Offline]
 **Para sesiones muy largas en modo offline:**
+
 1. Controla el espacio antes de comenzar
 2. Haz pausas cada 8-10 horas para conectar a WiFi y subir
 3. Usa la app para verificar que los videos se hayan subido correctamente
 4. Solo después de la subida reanuda la grabación offline
+
 :::

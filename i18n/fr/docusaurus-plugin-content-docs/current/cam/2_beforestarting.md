@@ -5,17 +5,19 @@ description: Tout ce que vous devez savoir avant d'allumer la caméra.
 ---
 
 # Avant de commencer
+
 L'unité a un seul bouton avec voyant intégré. Le voyant indique l'état de l'unité et le bouton permet d'interagir avec elle.
 Voici les commandes et les états du voyant.
 Une fois configurée :
 
 :::info[Important - Mise à jour Septembre 2025]
 Le comportement de la caméra a changé :
+
 - **Le mode d'association ne s'active plus automatiquement** quand aucun réseau n'est détecté, mais il y a maintenant la possibilité d'enregistrer hors ligne
 - **Il est recommandé d'utiliser l'app mobile** pour la configuration des réseaux WiFi, dans n'importe quel mode de la caméra, même pendant l'enregistrement
 - **Pour activer l'ancien mode d'association** (double clignotement) il faut maintenir le bouton appuyé pendant l'allumage
-:::
 
+:::
 
 ## États
 
@@ -28,7 +30,6 @@ Le voyant présent sur l'unité indique l'état du dispositif :
 | ![clignotement_moyen](/img/blink1_1000ms_50_0ms.gif)      | Enregistrement et upload                                  | Clignotement régulier | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
 | ![voyant_allumé](/img/blink1_1000ms_100_0ms.gif)          | Upload final                                             | Allumé             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
 | ![double_clignotement](/img/blink2_400ms_50_1000ms.gif)   | Mode association réseau (seulement si activé manuellement) | Double clignotement   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
-
 
 ## Commandes
 

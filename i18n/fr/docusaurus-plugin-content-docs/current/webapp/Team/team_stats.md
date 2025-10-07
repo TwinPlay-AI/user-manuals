@@ -9,6 +9,7 @@ description: Visualisez statistiques et vidéos des entraînements de votre équ
 ![webapp-coach](/img/webapp-coach.png)
 
 Depuis votre dashboard vous pouvez voir :
+
 - Les **statistiques de tous les joueurs** et de **tous les entraînements**
 - Données spécifiques **entraînement par entraînement** et par **joueur individuel**
 - Toutes les **vidéos des entraînements**, incluant :
@@ -21,6 +22,7 @@ Depuis votre dashboard vous pouvez voir :
 ## 📈 Statistiques
 
 ### 🏀 **Statistiques Individuelles**
+
 - Pourcentages de tir
 - Nombre de tirs tentés, réalisés et manqués
 - Heatmap des zones de tir 📍
@@ -28,6 +30,7 @@ Depuis votre dashboard vous pouvez voir :
 - Analyse temporelle des performances ⏳
 
 ### 📢 **Statistiques d'Équipe**
+
 - Classements internes entre les joueurs 🏆
 - Comparaison entre entraînements 📊
 - Évolution saisonnière des performances 📅
@@ -35,6 +38,7 @@ Depuis votre dashboard vous pouvez voir :
 ---
 
 ## 🚀 **Statistiques Avancées**
+
 Grâce à la technologie TwinPlay, vous pouvez accéder à des **données avancées** pour améliorer l'analyse des performances :
 
 - ⏱ **Temps de libération** : Rapidité avec laquelle un joueur tire après avoir reçu le ballon  
@@ -49,6 +53,7 @@ Ces données permettent aux coachs d'**identifier et corriger les défauts de ti
 ## 📌 Roster
 
 Gérez les joueurs inscrits, ajoutez-en de nouveaux et visualisez données et statistiques personnelles :
+
 - **Sélectionnez un joueur** pour voir données et statistiques détaillées
 - **Modifiez les informations personnelles** et chargez une photo de profil
 
@@ -57,6 +62,7 @@ Gérez les joueurs inscrits, ajoutez-en de nouveaux et visualisez données et st
 ## 🎥 Entraînements et Vidéos
 
 Vous pouvez revoir et analyser les entraînements en détail :
+
 - **Sélectionnez un entraînement** pour voir données et vidéos
 - **Regardez les vidéos** de l'entraînement avec les highlights
 - **Téléchargez et partagez les vidéos** sur les réseaux sociaux
@@ -69,11 +75,11 @@ Vous pouvez revoir et analyser les entraînements en détail :
 ## ❓ Questions Fréquemment Posées (FAQ)
 
 ### ❔ Que faire si je ne vois pas mes vidéos ?
-- Les vidéos ne sont pas immédiatement disponibles, il existe un temps de traitement avant lequel elles ne seront pas visibles.
-- Avez-vous tagué la session avec les joueurs qui ont participé à l'entraînement ? 
-- À la fin de l'entraînement la caméra s'est-elle éteinte après avoir complètement chargé la vidéo ? 
-- Contactez-nous si les vidéos ne sont pas disponibles après 24 heures.
 
+- Les vidéos ne sont pas immédiatement disponibles, il existe un temps de traitement avant lequel elles ne seront pas visibles.
+- Avez-vous tagué la session avec les joueurs qui ont participé à l'entraînement ?
+- À la fin de l'entraînement la caméra s'est-elle éteinte après avoir complètement chargé la vidéo ?
+- Contactez-nous si les vidéos ne sont pas disponibles après 24 heures.
 
 ---
 

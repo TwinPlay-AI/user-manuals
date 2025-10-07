@@ -9,6 +9,7 @@ description: Analiza tu rendimiento con datos avanzados y videos dedicados.
 ![webapp-player](/img/webapp-players.png)
 
 Desde tu panel de control, puedes acceder a:
+
 - Tus **estadísticas personales** de todas las sesiones de entrenamiento en las que has participado
 - Tus **videos individuales**, incluyendo:
   - Resúmenes automáticos 🎥  
@@ -45,6 +46,7 @@ Estos datos te ayudan a entender dónde mejorar y **seguir tu progreso a lo larg
 ## 🎥 Entrenamientos y Videos
 
 Puedes revisar y analizar cada sesión de entrenamiento en detalle:
+
 - **Selecciona una sesión** para ver tus estadísticas
 - **Mira tus videos personales**
 - **Descarga y comparte tus mejores momentos** en redes sociales.

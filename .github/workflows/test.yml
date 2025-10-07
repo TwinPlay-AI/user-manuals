@@ -1,15 +1,19 @@
-name: Publish docs
+name: Test
 
 on:
-  push:
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  id-token: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  release-docs:
+  test:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
@@ -26,10 +30,4 @@ jobs:
         run: |
           yarn install
           yarn build
-
-      - name: Publish docs on github pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          cname: docs.twinplay.ai
+          yarn lint:all

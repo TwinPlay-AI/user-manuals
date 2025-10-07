@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "🔍 Running pre-commit checks..."
+
+echo "📝 Checking linting on modified files..."
+
+yarn lint:all || (yarn lint:all:fix ; echo "❌ Linting failed"  ; exit 1)
+
+echo "✅ Pre-commit checks completed!"

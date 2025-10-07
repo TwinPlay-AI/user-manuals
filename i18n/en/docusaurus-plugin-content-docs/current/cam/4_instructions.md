@@ -37,11 +37,13 @@ Download the [**TwinPlay mobile app**](./mobile-app) to monitor camera status, s
 ## Recording Modes
 
 ### 🌐 Online recording (standard mode)
+
 - Camera automatically uploads videos to the cloud during recording
 - Requires stable WiFi connection
 - Unlimited cloud storage
 
 ### 📱 Offline recording (since September 2025)
+
 - Camera can record even **without internet connection**
 - Videos are saved to the device's internal memory
 - **⚠️ Important limit**: Approximately **15 hours** of recording maximum before saturating memory
@@ -49,10 +51,12 @@ Download the [**TwinPlay mobile app**](./mobile-app) to monitor camera status, s
 
 :::caution[Memory management in offline mode]
 **Always monitor available space when recording offline:**
+
 - Use the [mobile app](./mobile-app) to check used space
 - Very long sessions might fill the device memory
 - Once the limit is reached, the camera will stop recording
 - Connect to WiFi regularly to free up space by uploading videos to cloud
+
 :::
 
 ## Training

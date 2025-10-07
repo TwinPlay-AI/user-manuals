@@ -9,6 +9,7 @@ description: Ressources et suggestions pour promouvoir TwinPlay sur les réseaux
 Nous sommes ravis de voir notre technologie utilisée et nous voulons impliquer la communauté dans sa croissance ! Si vous utilisez TwinPlay lors de vos événements, de vos entraînements ou dans vos contenus, aidez-nous à en diffuser la connaissance !
 
 ## 📂 **Matériel Graphique et Vidéo**
+
 Nous avons créé une collection de ressources (logos, vidéos et autres) que vous pouvez utiliser pour promouvoir TwinPlay :
 
 👉 **[Téléchargez nos logos et vidéos depuis Google Drive](https://drive.google.com/drive/folders/1ppG1t1VJBevf9wnFABH_75FO9ue9KoPR?usp=drive_link)**
@@ -21,6 +22,7 @@ Utilisez ces matériaux dans vos contenus pour rendre vos posts encore plus enga
 
 Nous adorons voir comment TwinPlay est utilisé dans le monde réel !  
 Si vous publiez des contenus où vous l'utilisez :
+
 - 📲 **Taguez-nous dans vos posts et stories** sur Instagram, Facebook et Twitter
 - 🏀 Utilisez le hashtag officiel : **#TwinPlay**
 - 🎥 Partagez vidéos, expériences et cas d'usage réels

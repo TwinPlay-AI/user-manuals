@@ -7,6 +7,7 @@ id: webapp-player
 ![webapp-player](/img/webapp-players.png)
 
 From your dashboard, you can access:
+
 - Your **personal statistics** from all training sessions you've attended
 - Your **individual videos**, including:
   - Automatic highlights 🎥  
@@ -43,6 +44,7 @@ These insights help you understand where to improve and **track your progress ov
 ## 🎥 Trainings and Videos
 
 You can review and analyze every training session in detail:
+
 - **Select a session** to view your stats
 - **Watch your personal videos**
 - **Download and share your best moments** on social media!

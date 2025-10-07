@@ -78,7 +78,7 @@ Da settembre 2025, la telecamera può registrare anche **senza connessione inter
 3. **Controlla regolarmente** lo storage per evitare di saturare la memoria
 4. **Connetti a WiFi** quando possibile per caricare automaticamente i video nel cloud
 
-
 # Video guida
+
 Preferisci guardare il video? Ecco una guida rapida all'utilizzo della telecamera:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09SuO-30Nlo?si=HTF-2DR2wsDSOSIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
