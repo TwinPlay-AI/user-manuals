@@ -45,7 +45,8 @@ const sidebars = {
         title: 'Social',
         keywords: ['guides'],
       }
-    }
+    },
+    'download'
   ]
 };
 
