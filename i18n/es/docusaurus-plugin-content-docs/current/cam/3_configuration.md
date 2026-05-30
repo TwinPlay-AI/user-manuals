@@ -1,7 +1,7 @@
 ---
 id: configuration
 title: Configuración
-description: Conecta la cámara a una red WiFi mediante QR o acceso manual.
+description: Conecta la cámara a una red WiFi mediante la app móvil.
 ---
 
 # Configuración
@@ -70,48 +70,6 @@ La app móvil TwinPlay permite configurar las redes WiFi en cualquier momento, i
 
 :::
 
-## Procedimiento de asociación
-
-1. Enciende la red WiFi a la que deseas asociar la cámara.
-2. Enciende la unidad de procesamiento. Es importante que esta se encienda **DESPUÉS** de haber encendido la red WiFi.
-3. Espera a que la luz indicadora haga un doble parpadeo antes de continuar.
-   (Consulta las secciones [**Comandos**](before-starting#comandos) y [**Estados**](before-starting#estados) para más información)
-
-<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-  <span style={{ fontSize: '20px'}}>espera</span> {/* Flecha grande */}
-  <img src="/img/blink2_400ms_50_1000ms.gif" alt="doble_parpadeo" style={{ width: '80px' }} />
-</div>
-
-<details>
-  <summary>a) Con código QR</summary>
-  
-1. Escanea el primer código QR para conectarte a la red TwinPlay.
-
-   <img src="/img/QR_wifi.png" alt="qr_wifi" width="150" />
-
-2. Escanea el segundo código QR para ser redirigido a la página de configuración de TwinPlay.
-
-   <img src="/img/QR_link.png" alt="qr_link" width="150" />
-
-</details>
-
-<details>
-  <summary>b) Sin código QR</summary>
-
-```
-Red: TwinPlay
-Contraseña: TwinPlayCamera
-```
-
-1. Conéctate a la red.
-
-2. Abre el navegador (Chrome, Safari, etc.) y ve a la página **http://192.168.4.1:5000**, donde se abrirá la página de configuración de TwinPlay.
-
-</details>
-
-### Guardar red
-
-5. Selecciona la red WiFi a la que deseas conectar la cámara, introduce su contraseña y haz clic en el botón “Conectar”.
-6. Espera 1 minuto.
-
-Si la asociación se realizó correctamente, la luz indicadora comenzará a **parpadear regularmente**, iniciando directamente la grabación del entrenamiento. Si la luz vuelve a parpadear con 2 impulsos rápidos, la asociación no se completó correctamente: verifica que la conexión tenga acceso a internet y que la contraseña ingresada sea correcta.
+:::note[Configuración mediante código QR / página web ya no disponible]
+El antiguo procedimiento de asociación mediante código QR o página web (`http://192.168.4.1:5000`) y el correspondiente doble parpadeo han sido **eliminados**. Las redes WiFi ahora se configuran exclusivamente desde la app móvil.
+:::

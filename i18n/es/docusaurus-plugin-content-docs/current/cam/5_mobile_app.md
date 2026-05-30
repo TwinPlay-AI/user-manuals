@@ -13,12 +13,18 @@ La app móvil TwinPlay es ahora el **método principal** para gestionar la cáma
 ## Instalación
 
 1. **Descarga la app** desde tu tienda:
-   - **iOS**: Disponible en las próximas semanas en la App Store
+   - **iOS**: [Descarga desde la App Store](https://apps.apple.com/it/app/twinplay-ai-camera-setup/id6752512394)
    - **Android**: [Descarga desde Google Play Store](https://play.google.com/store/apps/details?id=com.twinplayai)
 
-   <div style={{textAlign: 'center', margin: '20px 0'}}>
-     <img src="/img/qrcode_play-store.png" alt="QR Code Play Store" style={{width: '200px'}} />
-     <p><em>Escanea el código QR para descargar la app Android</em></p>
+   <div style={{display: 'flex', justifyContent: 'center', gap: '40px', margin: '20px 0', flexWrap: 'wrap'}}>
+     <div style={{textAlign: 'center'}}>
+       <img src="/img/qrcode_app-store.png" alt="QR Code App Store" style={{width: '180px'}} />
+       <p><em>iOS · App Store</em></p>
+     </div>
+     <div style={{textAlign: 'center'}}>
+       <img src="/img/qrcode_play-store.png" alt="QR Code Play Store" style={{width: '180px'}} />
+       <p><em>Android · Google Play</em></p>
+     </div>
    </div>
 
 2. **Habilita Bluetooth** en tu smartphone

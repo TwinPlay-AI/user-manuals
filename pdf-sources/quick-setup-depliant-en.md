@@ -242,11 +242,11 @@ Springs are pre-compressed. Gradually loosen the locks while holding the upper e
 
 <div class="qr-codes" style="margin: 3mm 0;">
 <div>
-<img src="static/img/qrcode_app-store.png" alt="iOS App Store">
+<img src="/static/img/qrcode_app-store.png" alt="iOS App Store">
 <p><strong>iOS</strong></p>
 </div>
 <div>
-<img src="static/img/qrcode_play-store-android.png" alt="Android Play Store">
+<img src="/static/img/qrcode_play-store-android.png" alt="Android Play Store">
 <p><strong>Android</strong></p>
 </div>
 </div>
@@ -298,7 +298,9 @@ Springs are pre-compressed. Gradually loosen the locks while holding the upper e
 
 **Regular blinking** → Recording ✓
 **Rapid blinking** → Paused
+**Single short blink** → Camera/USB disconnected
 **Solid light** → Final upload
+**Yellow light** (green-light versions) → Final upload failed (no connection)
 **Off** → Device off
 
 ## 5. End Session

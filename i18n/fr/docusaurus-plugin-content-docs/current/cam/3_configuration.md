@@ -70,48 +70,6 @@ L'app mobile TwinPlay permet de configurer les réseaux WiFi à tout moment, mê
 
 :::
 
-## Procédure d'association
-
-1. Allumer le réseau WiFi auquel vous voulez associer la caméra.
-2. Allumer l'unité de traitement. Il est important qu'elle s'allume **APRÈS** avoir allumé le réseau WiFi.
-3. Attendre que le voyant fasse un double clignotement avant de continuer.
-   (Consulter les sections [**Commandes**](before-starting#commandes) et [**États**](before-starting#états) pour plus d'informations)
-
-<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-  <span style={{ fontSize: '20px'}}>attendre</span> {/* Flèche grande */}
-  <img src="/img/blink2_400ms_50_1000ms.gif" alt="double_clignotement" style={{ width: '80px' }} />
-</div>
-
-<details>
-  <summary>a) Avec code QR</summary>
-  
-1. Scanner le premier code QR pour se connecter au réseau TwinPlay.
-
-   <img src="/img/QR_wifi.png" alt="qr_wifi" width="150" />
-
-2. Scanner le second code QR pour être redirigé vers la page de configuration de TwinPlay.
-
-   <img src="/img/QR_link.png" alt="qr_link" width="150" />
-
-</details>
-
-<details>
-  <summary>b) Sans code QR</summary>
-
-```
-Réseau : TwinPlay
-Mot de passe : TwinPlayCamera
-```
-
-1. Se connecter au réseau.
-
-2. Ouvrir le navigateur (Chrome, Safari, etc.) et aller à la page **http://192.168.4.1:5000**, où s'ouvrira la page de configuration de TwinPlay.
-
-</details>
-
-### Sauvegarder réseau
-
-5. Sélectionner le réseau WiFi auquel vous voulez connecter la caméra, entrer son mot de passe et cliquer sur le bouton "Connecter".
-6. Attendre 1 minute.
-
-Si l'association s'est réalisée correctement, le voyant commencera à **clignoter régulièrement**, démarrant directement l'enregistrement de l'entraînement. Si le voyant recommence à clignoter avec 2 impulsions rapides, l'association ne s'est pas terminée correctement : vérifier que la connexion ait accès à internet et que le mot de passe saisi soit correct.
+:::note[Configuration via code QR / page web non disponible]
+L'ancienne procédure d'association via code QR ou page web (`http://192.168.4.1:5000`) et le double clignotement associé ont été **supprimés**. Les réseaux WiFi se configurent désormais exclusivement via l'app mobile.
+:::

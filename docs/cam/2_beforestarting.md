@@ -10,12 +10,12 @@ L'unità ha un singolo pulsante con spia integrata. La spia indica lo stato dell
 Di seguito sono riportati i comandi e gli stati della spia.
 Una volta configurata
 
-:::info[Importante - Aggiornamento Settembre 2025]
+:::info[Importante - Aggiornamento 2025]
 Il comportamento della telecamera è cambiato:
 
-- **La modalità associazione non si attiva più automaticamente** quando non rileva reti ma c'è la possibilità di registrare offline
-- **Si raccomanda di usare l'app mobile** per la configurazione delle reti WiFi, in qualsiasi modalità della telecamera, anche durante la registrazione
-- **Per attivare la vecchia modalità associazione** (lampeggio doppio) è necessario tenere premuto il pulsante durante l'accensione
+- **La configurazione delle reti WiFi avviene ora interamente tramite l'app mobile** (via Bluetooth), in qualsiasi modalità della telecamera, anche durante la registrazione
+- **La vecchia modalità di associazione** (lampeggio doppio, configurazione tramite QR code / pagina web) è stata rimossa: non è più necessaria
+- Se non rileva reti, la telecamera può comunque **registrare offline**
 
 :::
 
@@ -23,13 +23,17 @@ Il comportamento della telecamera è cambiato:
 
 La spia presente sull'unità indica lo stato in cui è il dispositivo:
 
-| Spia                                                      | Stato                                                     | Descrizione        | <div style={{width: "120px"}}>Registrazione</div> | <div style={{width: "120px"}}>Upload</div>   | <div style={{width: "120px"}}>Associazione</div> |
-|-----------------------------------------------------------|-----------------------------------------------------------|--------------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| ![spenta](/img/blink1_1000ms_0_0ms.gif)                   | Spenta, in errore o in accensione                         | Spenta             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![lampeggio_rapido](/img/blink1_200ms_50_0ms.gif)         | Pausa o Cavo USB staccato                                 | Lampeggio rapido   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![lampeggio_medio](/img/blink1_1000ms_50_0ms.gif)         | Registrazione e upload                                    | Lampeggio regolare | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![spia_accesa](/img/blink1_1000ms_100_0ms.gif)            | Upload finale                                             | Accesa             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![lampeggio_doppio](/img/blink2_400ms_50_1000ms.gif)      | Modalità associazione rete (solo se attivata manualmente) | Lampeggio doppio   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
+| Spia                                                      | Stato                                                        | Descrizione             | <div style={{width: "120px"}}>Registrazione</div> | <div style={{width: "120px"}}>Upload</div>   |
+|-----------------------------------------------------------|-------------------------------------------------------------|-------------------------|---------------------------------------------------|----------------------------------------------|
+| ![spenta](/img/blink1_1000ms_0_0ms.gif)                   | Spenta o in accensione                                      | Spenta                  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   |
+| ![lampeggio_veloce](/img/blink1_200ms_50_0ms.gif)         | Registrazione in pausa                                      | Lampeggio veloce        | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![lampeggio_regolare](/img/blink1_1000ms_50_0ms.gif)      | Registrazione e upload                                      | Lampeggio regolare      | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![lampeggio_singolo](/img/blink1_single_short.gif)        | Telecamera o cavo USB scollegato (in attesa di riconnessione) | Singolo lampeggio breve | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![spia_accesa](/img/blink1_1000ms_100_0ms.gif)            | Upload finale                                               | Accesa                  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+
+:::info[Versioni con spia verde: luce gialla]
+Sulle versioni con **spia di stato verde**, durante lo spegnimento la spia può diventare **gialla**: significa che l'**upload finale non è stato completato** — ad esempio per assenza di connessione a internet. Le versioni con **spia di stato blu** non hanno questa segnalazione.
+:::
 
 ## Comandi
 
@@ -37,7 +41,6 @@ La spia presente sull'unità indica lo stato in cui è il dispositivo:
 |------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
 | ![short_press](/img/button_spring_green_short.gif)   | Singola pressione breve             | Pausa/riprendi registrazione (lampeggio veloce) o nuova sessione |
 | ![long_press](/img/button_spring_green_long.gif)     | Singola pressione lunga (più di 1s) | Termina registrazione, avvia upload e spegnimento           |
-| Tieni premuto durante accensione                    | Pressione prolungata all'accensione | Attiva modalità associazione rete (lampeggio doppio)        |
 
 ## Requisiti campi di gioco
 

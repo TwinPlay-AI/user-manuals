@@ -70,49 +70,6 @@ The TwinPlay mobile app allows you to configure WiFi networks at any time, even 
 
 :::
 
-## Pairing Procedure
-
-1. Turn on the Wi-Fi network you want to connect the camera to  
-2. Turn on the processing unit. It's important to power it on **AFTER** the Wi-Fi network is active  
-3. Wait until the LED flashes in **double blink mode** before proceeding  
-   (See [**Indicator States**](before-starting#indicator-light-states) and [**Commands**](before-starting#commands) for more info)
-
-<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-  <span style={{ fontSize: '20px'}}>wait</span> {/* Large arrow */}
-  <img src="/img/blink2_400ms_50_1000ms.gif" alt="lampeggio_doppio" style={{ width: '80px' }} />
-</div>
-
-<details>
-  <summary>a) Using QR code</summary>
-  
-3. Scan the first QR code to connect to the TwinPlay Wi-Fi
-
-   <img src="/img/QR_wifi.png" alt="qr_wifi" width="150" />
-
-4. Scan the second QR code to open the TwinPlay configuration page
-
-   <img src="/img/QR_link.png" alt="qr_link" width="150" />
-
-</details>
-
-<details>
-  <summary>b) Without QR code</summary>
-
-3. Connect to the network
-
-```
-Rete:       TwinPlay 
-Password:   TwinPlayCamera 
-```
-
-4. Open your browser (Chrome, Safari, etc.) and go to **http://192.168.4.1:5000**, the TwinPlay configuration page will open.
-
-</details>
-
-### Saving the Network
-
-5. Select the Wi-Fi network you want to connect the camera to, enter the password, and click “Connect”  
-6. Wait one minute.
-
-If the pairing is successful, the LED will **start blinking steadily**, and recording will begin immediately.  
-If it returns to **double blink mode**, pairing failed: check internet access and make sure the password is correct.
+:::note[QR code / web page setup no longer available]
+The old pairing procedure via QR code or web page (`http://192.168.4.1:5000`) and the related double blink have been **removed**. WiFi networks are now configured exclusively through the mobile app.
+:::

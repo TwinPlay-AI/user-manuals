@@ -65,7 +65,7 @@
   "containerEnv": {
     "NODE_ENV": "development"
   },
-  "postCreateCommand": "just setup",
-  "postStartCommand": "just dev",
+  "postCreateCommand": "yarn install --frozen-lockfile",
+  "postStartCommand": "yarn start --host 0.0.0.0",
   "remoteUser": "node"
 }

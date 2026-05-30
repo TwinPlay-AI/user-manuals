@@ -10,12 +10,12 @@ L'unité a un seul bouton avec voyant intégré. Le voyant indique l'état de l'
 Voici les commandes et les états du voyant.
 Une fois configurée :
 
-:::info[Important - Mise à jour Septembre 2025]
+:::info[Important - Mise à jour 2025]
 Le comportement de la caméra a changé :
 
-- **Le mode d'association ne s'active plus automatiquement** quand aucun réseau n'est détecté, mais il y a maintenant la possibilité d'enregistrer hors ligne
-- **Il est recommandé d'utiliser l'app mobile** pour la configuration des réseaux WiFi, dans n'importe quel mode de la caméra, même pendant l'enregistrement
-- **Pour activer l'ancien mode d'association** (double clignotement) il faut maintenir le bouton appuyé pendant l'allumage
+- **La configuration des réseaux WiFi se fait désormais entièrement via l'app mobile** (via Bluetooth), dans n'importe quel mode de la caméra, même pendant l'enregistrement
+- **L'ancien mode d'association** (double clignotement, configuration via code QR / page web) a été supprimé : il n'est plus nécessaire
+- Si aucun réseau n'est détecté, la caméra peut tout de même **enregistrer hors ligne**
 
 :::
 
@@ -23,13 +23,17 @@ Le comportement de la caméra a changé :
 
 Le voyant présent sur l'unité indique l'état du dispositif :
 
-| Voyant                                                    | État                                                      | Description        | <div style={{width: "120px"}}>Enregistrement</div> | <div style={{width: "120px"}}>Upload</div>   | <div style={{width: "120px"}}>Association</div> |
-|-----------------------------------------------------------|-----------------------------------------------------------|--------------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| ![éteint](/img/blink1_1000ms_0_0ms.gif)                   | Éteint, en erreur ou en allumage                          | Éteint             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![clignotement_rapide](/img/blink1_200ms_50_0ms.gif)      | Pause ou Câble USB débranché                              | Clignotement rapide| <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![clignotement_moyen](/img/blink1_1000ms_50_0ms.gif)      | Enregistrement et upload                                  | Clignotement régulier | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![voyant_allumé](/img/blink1_1000ms_100_0ms.gif)          | Upload final                                             | Allumé             | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![double_clignotement](/img/blink2_400ms_50_1000ms.gif)   | Mode association réseau (seulement si activé manuellement) | Double clignotement   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
+| Voyant                                                    | État                                                       | Description             | <div style={{width: "120px"}}>Enregistrement</div> | <div style={{width: "120px"}}>Upload</div>   |
+|-----------------------------------------------------------|------------------------------------------------------------|-------------------------|---------------------------------------------------|----------------------------------------------|
+| ![éteint](/img/blink1_1000ms_0_0ms.gif)                   | Éteint ou en allumage                                      | Éteint                  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   |
+| ![clignotement_rapide](/img/blink1_200ms_50_0ms.gif)      | Enregistrement en pause                                    | Clignotement rapide     | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![clignotement_régulier](/img/blink1_1000ms_50_0ms.gif)   | Enregistrement et upload                                   | Clignotement régulier   | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![clignotement_unique](/img/blink1_single_short.gif)      | Caméra ou câble USB débranché (en attente de reconnexion) | Clignotement unique bref | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![voyant_allumé](/img/blink1_1000ms_100_0ms.gif)          | Upload final                                              | Allumé                  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+
+:::info[Versions avec voyant vert : lumière jaune]
+Sur les versions avec **voyant d'état vert**, pendant l'extinction le voyant peut devenir **jaune** : cela signifie que l'**upload final n'a pas pu être complété** — par exemple à cause d'une absence de connexion internet. Les versions avec **voyant d'état bleu** n'ont pas cette indication.
+:::
 
 ## Commandes
 
@@ -37,7 +41,6 @@ Le voyant présent sur l'unité indique l'état du dispositif :
 |------------------------------------------------------|-------------------------------------|------------------------------------------------------------|
 | ![pression_courte](/img/button_spring_green_short.gif)   | Pression courte unique             | Pause/reprendre l'enregistrement (clignotement rapide) ou nouvelle session |
 | ![pression_longue](/img/button_spring_green_long.gif)     | Pression longue unique (plus de 1s) | Termine l'enregistrement, démarre l'upload et extinction           |
-| Maintenir appuyé pendant l'allumage                    | Pression prolongée à l'allumage | Active le mode association réseau (double clignotement)        |
 
 ## Exigences terrains de jeu
 

@@ -10,12 +10,12 @@ The unit has a single button with an integrated indicator light. The light indic
 Below are the commands and indicator light states.
 Once configured:
 
-:::info[Important - September 2025 Update]
+:::info[Important - 2025 Update]
 The camera behavior has changed:
 
-- **Pairing mode no longer activates automatically** when no networks are detected, but there's now the possibility to record offline
-- **We recommend using the mobile app** for WiFi network configuration, in any camera mode, even during recording
-- **To activate the old pairing mode** (double blink) you need to hold the button during power-on
+- **WiFi network configuration is now done entirely through the mobile app** (via Bluetooth), in any camera mode, even during recording
+- **The old pairing mode** (double blink, QR code / web page setup) has been removed: it is no longer needed
+- If no networks are detected, the camera can still **record offline**
 
 :::
 
@@ -23,13 +23,17 @@ The camera behavior has changed:
 
 The indicator light on the unit shows the device's status:
 
-| Light                                                      | Status                            | Description        | <div style={{width: "120px"}}>Recording</div> | <div style={{width: "120px"}}>Upload</div>   | <div style={{width: "120px"}}>Pairing</div> |
-|------------------------------------------------------------|-----------------------------------|--------------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| ![off](/img/blink1_1000ms_0_0ms.gif)                      | Off, error, or powering on       | Off               | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![rapid_blink](/img/blink1_200ms_50_0ms.gif)              | Pause or USB cable disconnected  | Rapid blinking    | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![medium_blink](/img/blink1_1000ms_50_0ms.gif)            | Recording and uploading          | Regular blinking  | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![double_blink](/img/blink2_400ms_50_1000ms.gif)          | Network pairing mode (only if manually activated) | Double blink      | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
-| ![light_on](/img/blink1_1000ms_100_0ms.gif)               | Final upload                     | Solid light      | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
+| Light                                                      | Status                                              | Description          | <div style={{width: "120px"}}>Recording</div> | <div style={{width: "120px"}}>Upload</div>   |
+|------------------------------------------------------------|-----------------------------------------------------|---------------------|---------------------------------------------------|----------------------------------------------|
+| ![off](/img/blink1_1000ms_0_0ms.gif)                      | Off or powering on                                  | Off                 | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   |
+| ![fast_blink](/img/blink1_200ms_50_0ms.gif)               | Recording paused                                    | Fast blinking       | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![regular_blink](/img/blink1_1000ms_50_0ms.gif)           | Recording and uploading                             | Regular blinking    | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![single_blink](/img/blink1_single_short.gif)             | Camera or USB cable disconnected (awaiting reconnect) | Single short blink  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![light_on](/img/blink1_1000ms_100_0ms.gif)               | Final upload                                        | Solid light         | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+
+:::info[Green-light versions: yellow light]
+On versions with a **green status light**, during shutdown the light may turn **yellow**: this means the **final upload could not be completed** — for example, due to no internet connection. Versions with a **blue status light** do not have this indication.
+:::
 
 ## Commands
 
@@ -37,7 +41,6 @@ The indicator light on the unit shows the device's status:
 |------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
 | ![short_press](/img/button_spring_green_short.gif)   | Single short press                  | Pause/resume recording (rapid blink) or new session        |
 | ![long_press](/img/button_spring_green_long.gif)     | Single long press (more than 1s)    | Stop recording, start upload, and shut down                 |
-| Hold during power-on                                 | Prolonged press during power-on     | Activate network pairing mode (double blink)               |
 
 ## Playing Field Requirements
 

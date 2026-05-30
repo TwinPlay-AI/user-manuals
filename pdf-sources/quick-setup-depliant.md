@@ -242,11 +242,11 @@ Le molle sono pre-compresse. Allentare progressivamente le chiavi tenendo l'estr
 
 <div class="qr-codes" style="margin: 3mm 0;">
 <div>
-<img src="static/img/qrcode_app-store.png" alt="iOS App Store">
+<img src="/static/img/qrcode_app-store.png" alt="iOS App Store">
 <p><strong>iOS</strong></p>
 </div>
 <div>
-<img src="static/img/qrcode_play-store-android.png" alt="Android Play Store">
+<img src="/static/img/qrcode_play-store-android.png" alt="Android Play Store">
 <p><strong>Android</strong></p>
 </div>
 </div>
@@ -298,7 +298,9 @@ Le molle sono pre-compresse. Allentare progressivamente le chiavi tenendo l'estr
 
 **Lampeggio regolare** → Registrazione ✓
 **Lampeggio rapido** → Pausa
+**Singolo lampeggio breve** → Telecamera/USB scollegato
 **Accesa fissa** → Upload finale
+**Luce gialla** (versioni con spia verde) → Upload finale non riuscito (no connessione)
 **Spenta** → Dispositivo off
 
 ## 5. Termine Sessione

@@ -10,12 +10,12 @@ La unidad tiene un único botón con una luz indicadora integrada. La luz indica
 A continuación, se detallan los comandos y los estados de la luz indicadora.
 Una vez configurado:
 
-:::info[Importante - Actualización Septiembre 2025]
+:::info[Importante - Actualización 2025]
 El comportamiento de la cámara ha cambiado:
 
-- **El modo de emparejamiento ya no se activa automáticamente** cuando no detecta redes, pero existe la posibilidad de grabar offline
-- **Se recomienda usar la app móvil** para la configuración de redes WiFi, en cualquier modalidad de la cámara, incluso durante la grabación
-- **Para activar el modo de emparejamiento anterior** (doble parpadeo) es necesario mantener presionado el botón durante el encendido
+- **La configuración de redes WiFi ahora se realiza completamente desde la app móvil** (vía Bluetooth), en cualquier modalidad de la cámara, incluso durante la grabación
+- **El modo de emparejamiento anterior** (doble parpadeo, configuración mediante código QR / página web) ha sido eliminado: ya no es necesario
+- Si no detecta redes, la cámara puede igualmente **grabar offline**
 
 :::
 
@@ -23,13 +23,17 @@ El comportamiento de la cámara ha cambiado:
 
 La luz indicadora de la unidad muestra el estado del dispositivo:
 
-| Luz                                                       | Estado                            | Descripción        | <div style={{width: "120px"}}>Grabación</div> | <div style={{width: "120px"}}>Subida</div>   | <div style={{width: "120px"}}>Emparejamiento</div> |
-|-----------------------------------------------------------|-----------------------------------|--------------------|---------------------------------------------------|----------------------------------------------|------------------------------------------------------------|
-| ![apagado](/img/blink1_1000ms_0_0ms.gif)                 | Apagado, error o encendido        | Apagado           | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![parpadeo_rápido](/img/blink1_200ms_50_0ms.gif)         | Pausa o Cable USB desconectado    | Parpadeo rápido   | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![parpadeo_medio](/img/blink1_1000ms_50_0ms.gif)         | Grabando y subiendo               | Parpadeo regular  | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
-| ![doble_parpadeo](/img/blink2_400ms_50_1000ms.gif)       | Modo de emparejamiento de red (solo si se activa manualmente) | Doble parpadeo    | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   | <div style={{textAlign: "center"}}>✅</div>       |
-| ![luz_encendida](/img/blink1_1000ms_100_0ms.gif)         | Subida final                      | Luz fija          | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   | <div style={{textAlign: "center"}}>❌</div>       |
+| Luz                                                       | Estado                                                  | Descripción           | <div style={{width: "120px"}}>Grabación</div> | <div style={{width: "120px"}}>Subida</div>   |
+|-----------------------------------------------------------|---------------------------------------------------------|-----------------------|---------------------------------------------------|----------------------------------------------|
+| ![apagado](/img/blink1_1000ms_0_0ms.gif)                 | Apagado o encendiéndose                                 | Apagado               | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>❌</div>   |
+| ![parpadeo_rápido](/img/blink1_200ms_50_0ms.gif)         | Grabación en pausa                                      | Parpadeo rápido       | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![parpadeo_regular](/img/blink1_1000ms_50_0ms.gif)       | Grabando y subiendo                                     | Parpadeo regular      | <div style={{textAlign: "center"}}>✅</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![parpadeo_único](/img/blink1_single_short.gif)          | Cámara o cable USB desconectado (esperando reconexión)  | Parpadeo único breve  | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+| ![luz_encendida](/img/blink1_1000ms_100_0ms.gif)         | Subida final                                            | Luz fija              | <div style={{textAlign: "center"}}>❌</div>        | <div style={{textAlign: "center"}}>✅</div>   |
+
+:::info[Versiones con luz verde: luz amarilla]
+En las versiones con **luz de estado verde**, durante el apagado la luz puede ponerse **amarilla**: significa que la **subida final no se completó** — por ejemplo, por falta de conexión a internet. Las versiones con **luz de estado azul** no tienen esta indicación.
+:::
 
 ## Comandos {#comandos}
 
@@ -37,7 +41,6 @@ La luz indicadora de la unidad muestra el estado del dispositivo:
 |--------------------------------------------------------|-------------------------------------|-------------------------------------------------------------|
 | ![pulsación_corta](/img/button_spring_green_short.gif) | Pulsación corta única               | Pausa/reanuda grabación (parpadeo rápido) o nueva sesión |
 | ![pulsación_larga](/img/button_spring_green_long.gif)  | Pulsación larga única (más de 1s)   | Termina grabación, inicia subida y apagado           |
-| Mantener presionado durante encendido                    | Presión prolongada al encender | Activa modo de emparejamiento de red (doble parpadeo)        |
 
 ## Requisitos del campo de juego
 
